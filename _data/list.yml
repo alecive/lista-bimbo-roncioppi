@@ -20,8 +20,21 @@
   link: https://www.amazon.com/Philips-AVENT-Nighttime-Pacifier-2-Count/dp/B0057EEC44/ref=sr_1_10_s_it?s=baby-products&ie=UTF8&qid=1468199290&sr=1-10&keywords=pacifier
   img: https://images-na.ssl-images-amazon.com/images/I/61yBZ6d9zQL._SX522_.jpg
 
+- name: Cuccio
+  description: Questo oggetto è fantastico
+  price: $ 5.99
+  link: https://www.amazon.com/Philips-AVENT-Nighttime-Pacifier-2-Count/dp/B0057EEC44/ref=sr_1_10_s_it?s=baby-products&ie=UTF8&qid=1468199290&sr=1-10&keywords=pacifier
+  img: https://images-na.ssl-images-amazon.com/images/I/61yBZ6d9zQL._SX522_.jpg
+
 - name: Nuova cosa
   description: Il ciuccio serve per ciucciare
   price: $ 3
   img: https://images-na.ssl-images-amazon.com/images/I/41hOfD2fTmL.jpg
   link: https://www.amazon.com/Philips-AventBPA-Soothie-Pacifier-months/dp/B0081ZOV06/ref=sr_1_2_s_it?s=baby-products&ie=UTF8&qid=1468199019&sr=1-2&keywords=pacifier
+  
+- name: Passeggino
+  description: Il passeggino serve per passeggiare
+  price: $ 3
+  img: https://images-na.ssl-images-amazon.com/images/I/41hOfD2fTmL.jpg
+  link: https://www.amazon.com/Philips-AventBPA-Soothie-Pacifier-months/dp/B0081ZOV06/ref=sr_1_2_s_it?s=baby-products&ie=UTF8&qid=1468199019&sr=1-2&keywords=pacifier
+ 
