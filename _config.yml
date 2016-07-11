@@ -1,10 +1,11 @@
 # Site settings
+baseurl: http://alecive.github.io/lista-bimbo-roncioppi
 title: Lista bimbo
-email: your-email@domain.com
-url: https://alecive.github.io/lista-bimbo-roncioppi
+email: alecive87@gmail.com
+url: http://alecive.github.io/lista-bimbo-roncioppi
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 skills: "Per il figlio dei Roncioppi"
-meta_author: LastName FirstName
+meta_author: Alessandro Roncone
 
 # Google webmaster tools
 google_verify:
@@ -42,14 +43,6 @@ social:
     url: http://bitbucket.org/jekyll
   - title: github
     url: http://github.com/jekyll
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
-
-# Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
