@@ -82,7 +82,13 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background: #{{ site.color.primary }};
+    /*background: #{{ site.color.primary }};*/
+    background-image: url("img/future.jpg");
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
 header .container {
@@ -192,6 +198,11 @@ section.success {
     section.first {
         padding-top: 75px;
     }
+}
+
+#portfolio.success {
+    background-image: url("img/baby_background.svg");
+    background-repeat: repeat;
 }
 
 #portfolio .portfolio-item {
