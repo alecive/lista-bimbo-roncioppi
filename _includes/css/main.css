@@ -22,7 +22,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #{{ site.color.primary }};
+    color: inherit;
 }
 
 h1,
@@ -200,7 +200,7 @@ section.success {
     }
 }
 
-#portfolio.success {
+#portfolio {
     background-image: url("img/baby_background.svg");
     background-repeat: repeat;
 }
@@ -254,6 +254,17 @@ section.success {
 
 #portfolio * {
     z-index: 2;
+}
+
+#portfolio .portfolio-item img {
+    position: relative;
+    float: left;
+    width:  200px;
+    height: 200px;
+    background-position: 50% 50%;
+    background-repeat:   no-repeat;
+    background-size:     cover;
+    margin: 10px;
 }
 
 @media(min-width:767px) {
