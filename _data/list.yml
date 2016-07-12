@@ -1,11 +1,11 @@
-- name: Pennarello Molto bello
-  description: Questo oggetto è fantastico
-  price: 1000 £
-  link: www.ciao.com
-  img: https://images-na.ssl-images-amazon.com/images/I/61yBZ6d9zQL._SX522_.jpg
-  taken: yes
-  purchaser: Gianni Pinozzo
-  message: Mi piaccciono le penne molto belle e mi fanno schifo gli orecchini marci
+# - name: Pennarello Molto bello
+#   description: Questo oggetto è fantastico
+#   price: 1000 £
+#   link: www.ciao.com
+#   img: https://images-na.ssl-images-amazon.com/images/I/61yBZ6d9zQL._SX522_.jpg
+#   taken: yes
+#   purchaser: Gianni Pinozzo
+#   message: Mi piaccciono le penne molto belle e mi fanno schifo gli orecchini marci
 
 - name: Cuccio
   description: Questo oggetto è fantastico
@@ -45,7 +45,7 @@
     Tappetino imbottito lavabile in lavatrice
     Include 5 palline colorate
 
-  price: $ 40,24
+  price: $ 40.24
   img: https://images-na.ssl-images-amazon.com/images/I/81aieQTNNML._SX522_.jpg
   link: https://www.amazon.com/Fisher-Price-CCB70-Newborn-to-Toddler-Play-Gym/dp/B00NFETGHQ
   
