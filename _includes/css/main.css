@@ -92,6 +92,31 @@ header {
     background-size: cover;
 }
 
+@media(max-width:3840px) {
+    header {
+        background-image: url("img/future_3840.jpg");
+    }
+}
+
+@media(max-width:2560px) {
+    header {
+        background-image: url("img/future_2560.jpg");
+    }
+}
+
+@media(max-width:1920px) {
+    header {
+        background-image: url("img/future_1920.jpg");
+    }
+}
+
+@media(max-width:1280px) {
+    header {
+        background-image: url("img/future_1280.jpg");
+    }
+}
+
+
 header .container {
     padding-top: 100px;
     padding-bottom: 50px;
