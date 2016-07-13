@@ -27,7 +27,7 @@
   
 - name: Passeggino
   description: Non abbiamo ancora trovato il nostro paseggino ideale. Abbiamo molte esigenze, infatti stiamo cercando un passeggino che abbia la navicella, cosi da poter essere anche lettino per i primi mesi, visto che abbiamo in programma un trasloco verso novembre. Inoltre, vorremmo poter andare a correre con il bambino. Appena avremmo trovato il modello perfetto vi renderemo partecipi.
-  price: ?
+  price: boh
   img: 
   link: 
   
@@ -122,7 +122,7 @@
   img: https://images-na.ssl-images-amazon.com/images/I/61zjs6Q00TL._SX522_.jpg
   link: https://www.amazon.com/NoseFrida-The-Snotsucker-Nasal-Aspirator/dp/B00171WXII/ref=sr_1_1_s_it?s=baby-products&ie=UTF8&qid=1468369649&sr=1-1&keywords=Nosefrida+The+Snotsucker+Nasal+Aspirator
 
-  - name: The First Years American Red Cross Baby Healthcare And Grooming Kit
+- name: The First Years American Red Cross Baby Healthcare And Grooming Kit
   description:  Tutto il necessario affinche' una madre/infermiera si possa sentire realizzata
   price: $ 18.86
   img: https://images-na.ssl-images-amazon.com/images/I/71ZwaGCOrjL._SX522_.jpg
