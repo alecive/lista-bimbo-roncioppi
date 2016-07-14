@@ -9,61 +9,55 @@
 
 - name: Cuccio
   description: 
-  price: $ 5.99
+  price: 5.99
   link: https://www.amazon.com/Philips-AVENT-Nighttime-Pacifier-2-Count/dp/B0057EEC44/ref=sr_1_10_s_it?s=baby-products&ie=UTF8&qid=1468199290&sr=1-10&keywords=pacifier
   img: https://images-na.ssl-images-amazon.com/images/I/61yBZ6d9zQL._SX522_.jpg
 
 - name: ciuccio
   description: Questo ciuccio ci e' stato consigliato da un'amica ostetrica. La sua particolarita' e' di avere un buco in corrispondenza della tettarella cosi' da non farlo rigettare dal bambino.
-  price: $ 2.78
+  price: 2.78
   img: https://images-na.ssl-images-amazon.com/images/I/41hOfD2fTmL.jpg
   link: https://www.amazon.com/Philips-AventBPA-Soothie-Pacifier-months/dp/B0081ZOV06/ref=sr_1_2_s_it?s=baby-products&ie=UTF8&qid=1468199019&sr=1-2&keywords=pacifier
 
 - name: Catenella per ciuccio
   description: Per chi conosce bene la Giorgia potra' pensare che le tonalita' siano state scelte da lei...ma e' un maschietto!
-  price: $ 9.95
+  price: 9.95
   img: https://images-na.ssl-images-amazon.com/images/I/71ayfr-5adL._SX522_.jpg
   link: https://www.amazon.com/Pacifier-Clip-2-Sided-Design-Holder/dp/B00YYDW86I/ref=sr_1_8_s_it?s=baby-products&ie=UTF8&qid=1468370155&sr=1-8&keywords=Booginhead+PaciGrip+Pacifier+Holder
 
 - name: biberon
   description: Compatibile con tutte le pompe Medela seno, in modo da poter pompare, archiviare e nutrite con un contenitore, ottimo per la conservazione a lungo termine, Lavabile in lavastoviglie
-  price: $ 16.95
+  price: 16.95
   img: https://images-na.ssl-images-amazon.com/images/I/81xDSHZgvZL._SX522_.jpg
   link: https://www.amazon.com/Medela-Breast-Milk-Feeding-Gift/dp/B001EU8IPY/ref=sr_1_1_s_it?s=baby-products&ie=UTF8&qid=1468419872&sr=1-1&keywords=Medela+Breastmilk+Feeding+Gift+Set
 
 - name:  Munchkin LATCH Deluxe Bottle and Valve Brush
   description: Pulisci biberon
-  price: $ 4.28
+  price: 4.28
   img: https://images-na.ssl-images-amazon.com/images/I/71etYS550VL._SX522_.jpg
   link: https://www.amazon.com/Munchkin-LATCH-Deluxe-Bottle-Valve/dp/B00JBYN0D0/ref=sr_1_1_s_it?s=baby-products&ie=UTF8&qid=1468420578&sr=1-1&keywords=Munchkin+Deluxe+Bottle+Brush
 
-- name: 
-  description: 
-  price: $ 
-  img: 
-  link: 
-
 - name: Bumkins SuperBib 3 Pack -Blue Fizz/OnTheGo/Owls
   description: Bavaglini 6-24 mesi
-  price: $ 15.26 
+  price: 15.26 
   img: https://images-na.ssl-images-amazon.com/images/I/71fGfcOo%2BzL._SX522_.jpg
   link: https://www.amazon.com/Bumkins-SuperBib-Pack--Blue-OnTheGo/dp/B00A0BYBD6/ref=sr_1_3_s_it?s=baby-products&ie=UTF8&qid=1468420863&sr=1-3&keywords=Bumkins+SuperBib+3+Pack
   
 - name: Adorable Waterproof Silicone Soft Bib with Food Catcher 
   description: 2 baviglini in silicone con raccoglitore e due posate
-  price: $ 14.10
+  price: 14.10
   img: https://images-na.ssl-images-amazon.com/images/I/91pMTRf%2BCJL._SX522_.jpg
   link: https://www.amazon.com/Adorable-Waterproof-Silicone-Soft-Catcher/dp/B01AUVPG4S/ref=sr_1_4_s_it?s=baby-products&ie=UTF8&qid=1468421151&sr=1-4&keywords=BabyBjorn+Soft+Bib+2+Pack
 
 - name: Magic Bullet Baby Bullet Baby Care System 
   description: Produci il cibo sano e nutrizionale per il bambino di un'intera settimana in meno di 5 minuti, Include frullatore, ciotola, lama per miscelare, lama di fresatura, facile pop vassoio in lotti di silicone, tazze, spatola, 1 contenitore richiudibile.
-  price: $ 50.99
+  price: 50.99
   img: https://images-na.ssl-images-amazon.com/images/I/814ykZ%2BVs5L._SL1500_.jpg
   link: https://www.amazon.com/Magic-Bullet-Baby-Care-System/dp/B004V5BTUA
 
 - name: Inglesina - Fast Table Chair With Dining Tray - Light Blue 
   description: seggiolone portatile
-  price: $ 81.00
+  price: 81.00
   img: https://images-na.ssl-images-amazon.com/images/I/61YQy4QrByL._SX522_.jpg
   link: https://www.amazon.com/Inglesina-Table-Chair-Dining-Light/dp/B00J7YSJXK/ref=sr_1_12_s_it?s=baby-products&ie=UTF8&qid=1468453536&sr=1-12&keywords=Fast+Table+Chair+baby
 
@@ -82,7 +76,7 @@
 
 - name: Skip Hop Duo Special Edition Diaper Bag, French Stripe
   description: Borsa neonato, cinghia passeggino regolabile e maniglie laminati, fasciatoio imbottito, scomparto principale con chiusura a zip, Nove tasche.
-  price: $ 68.00
+  price: 68.00
   img: https://images-na.ssl-images-amazon.com/images/I/A1sHLBVZzKL._SX522_.jpg
   link: https://www.amazon.com/Skip-Hop-Special-Diaper-French/dp/B00B7XUVLW/ref=sr_1_1_s_it?s=baby-products&ie=UTF8&qid=1468419262&sr=1-1&keywords=Skip+Hop+Duo+Special+Edition+Diaper+Bag
   
@@ -94,133 +88,139 @@
     Tappetino imbottito lavabile in lavatrice
     Include 5 palline colorate
 
-  price: $ 40.24
+  price: 40.24
   img: https://images-na.ssl-images-amazon.com/images/I/81aieQTNNML._SX522_.jpg
   link: https://www.amazon.com/Fisher-Price-CCB70-Newborn-to-Toddler-Play-Gym/dp/B00NFETGHQ
   
 - name: Cuscino per l'allattamento
   description: Lavabile in lavatrice
                Versatile - Uso per l'allattamento al seno, biberon, Seduto
-  price: $ 39.99
+  price: 39.99
   img: https://images-na.ssl-images-amazon.com/images/I/810f-0Zjr2L._SX522_.jpg
   link: https://www.amazon.com/Boppy-Nursing-Positioner-Colorful-Chevron/dp/B00R8M0GYS?ie=UTF8&ref_=zg_bs_677980011_28
 
 - name: lettino
   description: La base letto si può montare a due altezze diverse. Un lato può essere rimosso quando il bambino è abbastanza grande per salire da solo
-  price: $ 99.00
+  price: 99.00
   img: http://www.ikea.com/us/en/images/products/gulliver-crib-white__70462_PE185759_S4.JPG
   link: http://www.ikea.com/us/en/catalog/products/80248525/
 
 - name: Carter's Keep Me Dry Waterproof Fitted Quilted Crib Pad
   description: coprimaterassino impermeabile
-  price: $ 29.99
+  price: 29.99
   img: https://images-na.ssl-images-amazon.com/images/I/81xwdkQzTBL._SX522_.jpg
   link: https://www.amazon.com/Carters-Waterproof-Quilted-Discontinued-Manufacturer/dp/B002UD65XQ?ie=UTF8&tag=blvisitor-20  
   
 - name: Lenzuola
   description: Lenzuolo ad angolo copri materasso
-  price: $ 19.00
+  price: 19.00
   img: http://target.scene7.com/is/image/Target/18839827?wid=450&hei=450&fmt=pjpeg
   link: http://www.target.com/p/babyletto-baby-fitted-crib-sheet/-/A-18839827
 
 - name: Lenzuola
   description: Set Lenzuola per lettino e navicella
-  price: $ 49.95
+  price: 49.95
   img: https://images-na.ssl-images-amazon.com/images/I/91lWMBKnlSL._SX522_.jpg
   link: https://www.amazon.com/aden-anais-Classic-Swaddle-Blanket/dp/B002SW3B0O
   
 - name: Lenzuola
   description: SwaddleMe, sacco a pelo per lettino, riproduce le sensazioni che il neonato provava nel grembo materno.
-  price: $ 24.99
+  price: 24.99
   img: http://target.scene7.com/is/image/Target/49180696?wid=450&hei=450&fmt=pjpeg
   link: http://www.target.com/p/summer-infant-swaddleme-2pk-swaddle/-/A-49180696
   
 - name: Copertina
   description: due copertine morbide
-  price: $ 9.99
+  price: 9.99
   img: http://target.scene7.com/is/image/Target/14772608?wid=450&hei=450&fmt=pjpeg
   link: http://www.target.com/p/circo-pack-n-play-play-yard-fitted-sheet-set/-/A-15035976
 
 - name: Fasciatoio
   description: Questo fasciatoio cresce con il bambino, si puo' capovolgere la parte superiore e inferiore per trasformarlo facilmente in una scrivania o superficie di gioco.
-  price: $ 149.00
+  price: 149.00
   img: http://www.ikea.com/us/en/images/products/stuva-changing-table-with-drawers-white__0370865_PE551919_S4.JPG 
   link: http://www.ikea.com/us/en/catalog/products/S99124030/#/S19124029
 
 - name: Summer Infant Contoured Changing Pad 
   description: Materassino fasciatoio
-  price: $ 19.03
+  price: 19.03
   img: https://images-na.ssl-images-amazon.com/images/I/81%2Bev0VHJHL._SL1500_.jpg
   link: https://www.amazon.com/Summer-Infant-Contoured-Changing-16-5/dp/B009EDSWJA?ie=UTF8&tag=blvisitor-20 
 
 - name: Make a Splash Changing Pad Cover (Dot) Make a Splash Changing Pad Cover (Dot) 
   description: Copri materassino fasciatoio  
-  price: $ 35.00
+  price: 35.00
   img: https://res.cloudinary.com/babylist/image/upload/t_app_500px_square/pinxohrh2vfvzbbxi2nb.jpg 
   link: http://www.landofnod.com/make-a-splash-changing-pad-cover-dot/f12397?t=6&a=185&bid=5628bid
 
 - name: SKÖTSAM 
   description: fasciatoio gonfiabile
-  price: $ 6.99
+  price: 6.99
   img: http://www.ikea.com/us/en/images/products/skotsam-changing-pad-white__0244015_PE383255_S4.JPG
   link: http://www.ikea.com/us/en/catalog/products/70251797/
 
 - name: SKÖTSAM
   description: Asciugamano copri fasciatoi
-  price: $ 4.99
+  price: 4.99
   img: http://www.ikea.com/us/en/images/products/skotsam-cover-white__0212462_PE376058_S4.JPG
   link: http://www.ikea.com/us/en/catalog/products/50253981/
 
 - name: Vaschetta per il bagnetto
   description: Questa vaschetta per il bagno offre il massimo comfort per i genitori e il bambino durante il bagno. La vasca dispone di un supporto da bagno per il neoato che permette al bambino di essere posizionato comodamente con una pendenza corretta. Una piattaforma in più solleva in sicurezza la vasca, rendendo più comodo e più facile raggiungere il bambino senza spezzarsi la schiena, conoscendo i problemi fisici della madre in questione.
-  price: $ 39.99
+  price: 39.99
   img: http://res.cloudinary.com/powerreviews/image/upload/f_auto,w_640,h_629/prod/xgpvcndwv57jnladgukc.jpg
   link: http://www.toysrus.com/buy/bath-tubs-more/summer-infant-right-height-bath-tub-08970-3680336
  
 - name: Duckymeter
   description:  Termometro per bagnetto
-  price: $ 12.85
+  price: 12.85
   img: https://images-na.ssl-images-amazon.com/images/I/61ZaEOSrUaL._SX522_.jpg
   link: https://www.amazon.com/Duckymeter-Baby-Bath-Floating-Thermometer/dp/B0064CTIC4/ref=sr_1_1_s_it?s=baby-products&ie=UTF8&qid=1468369110&sr=1-1&keywords=Duckymeter
 
 - name: Sassy Bathtime Pals Squirt and Float Toys
   description:  Giochi per bagnetto
-  price: $ 7.29
+  price: 7.29
   img: https://images-na.ssl-images-amazon.com/images/I/719DGMmQDNL._SY679_.jpg
   link: https://www.amazon.com/Sassy-Bathtime-Pals-Squirt-Float/dp/B002TOKHJE/ref=sr_1_1_s_it?s=baby-products&ie=UTF8&qid=1468369374&sr=1-1&keywords=Sassy+Bathtime+Pals+Squirt+and+Float+Toys
 
 - name: Babyganics Baby Safe World Essentials Kit 
   description:  Prodotti per l'igiene personale
-  price: $ 31.99
+  price: 31.99
   img: https://images-na.ssl-images-amazon.com/images/I/71zFwxEwzqL._SX522_.jpg
   link: https://www.amazon.com/Babyganics-Baby-Safe-World-Essentials/dp/B00ROA3LOQ/ref=sr_1_7_s_it?s=baby-products&ie=UTF8&qid=1468371462&sr=1-7&keywords=Honest+Baby+Arrival+Gift+Set
 
 - name: Baby Arrival Gift Set
   description:  Prodotti per l'igiene personale
-  price: $ 63.75
+  price: 63.75
   img: https://images-na.ssl-images-amazon.com/images/I/51bfYZ8a0SL.jpg
   link: https://www.amazon.com/The-Honest-Company-Baby-Arrival/dp/B00LVSYGRS/ref=sr_1_1_s_it?s=baby-products&ie=UTF8&qid=1468371462&sr=1-1&keywords=Honest+Baby+Arrival+Gift+Set
 
 - name: Accappatoio
   description: Simpatici animaletti coccoleranno il nostro bimbo dopo la doccia e se andra' a fare sport con quei due pazzi dei suoi genitori, ne avra' bisogno di piu' di uno
-  price: $ 11.50
+  price: 11.50
   img: https://images-na.ssl-images-amazon.com/images/I/811ejuSt2-L._SX522_.jpg
   link: https://www.amazon.com/Luvable-Friends-Animal-Hooded-Woven/dp/B00A69H9U4/ref=sr_1_2_s_it/000-2485638-7607734?s=baby-products&ie=UTF8&qid=1467758597&sr=1-2
   
 - name: Accappatoio
   description: Simpatici animaletti coccoleranno il nostro bimbo dopo la doccia, i soggetti sono stati scelti da Cive e se il primo e' una volpe indovinate un po' per quale motivo ha scelto il secondo? Che siano entrambi di buon auspicio
-  price: $ 12.98
+  price: 12.98
   img: https://images-na.ssl-images-amazon.com/images/I/81nJSoGLsxL._SX522_.jpg
   link: https://www.amazon.com/Luvable-Friends-Animal-Hooded-Woven/dp/B00A69H9U4/ref=sr_1_2_s_it/000-2485638-7607734?s=baby-products&ie=UTF8&qid=1467758597&sr=1-2
 
 - name: NoseFrida The Snotsucker Nasal Aspirator
   description:  Aspiramuco dal naso
-  price: $ 13.59
+  price: 13.59
   img: https://images-na.ssl-images-amazon.com/images/I/61zjs6Q00TL._SX522_.jpg
   link: https://www.amazon.com/NoseFrida-The-Snotsucker-Nasal-Aspirator/dp/B00171WXII/ref=sr_1_1_s_it?s=baby-products&ie=UTF8&qid=1468369649&sr=1-1&keywords=Nosefrida+The+Snotsucker+Nasal+Aspirator
 
 - name: The First Years American Red Cross Baby Healthcare And Grooming Kit
   description:  Tutto il necessario affinche' una madre/infermiera si possa sentire realizzata
-  price: $ 18.86
+  price: 18.86
   img: https://images-na.ssl-images-amazon.com/images/I/71ZwaGCOrjL._SX522_.jpg
   link: https://www.amazon.com/American-Red-Cross-Healthcare-Grooming/dp/B000LZFZVS/ref=sr_1_1_s_it?s=baby-products&ie=UTF8&qid=1468369902&sr=1-1&keywords=American+Red+Cross+Deluxe+Baby+Healthcare+and+Grooming+Kit
+
+- name: 
+  description: 
+  price: 
+  img: 
+  link: 
