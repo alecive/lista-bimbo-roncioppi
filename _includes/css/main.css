@@ -63,7 +63,6 @@ hr.star-light {
 
 hr.star-light:after {
     color: #fff;
-    background-color: #{{ site.color.primary }};
 }
 
 hr.star-primary {
@@ -72,7 +71,6 @@ hr.star-primary {
 
 hr.star-primary:after {
     color: #{{ site.color.secondary }};
-    background-color: #fff;
 }
 
 .img-centered {
@@ -282,9 +280,22 @@ section.success {
     z-index: 2;
 }
 
-#portfolio .portfolio-item img {
+#portfolio .portfolio-item a:hover {
+    text-decoration: none;
+}
+
+#portfolio .portfolio-item .card {
+    background-color: rgba(255,255,255,0.2);
+    padding: 10px;
+}
+
+#portfolio .portfolio-item .card h3 {
+    margin-top: 6px;
+}
+
+#portfolio .portfolio-item .card img {
     position: relative;
-    float: left;
+    /*float: left;*/
     width:  200px;
     height: 200px;
     background-position: 50% 50%;
