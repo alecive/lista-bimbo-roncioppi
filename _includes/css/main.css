@@ -180,10 +180,6 @@ header .intro-text .skills {
     header .intro-text .name {
         font-size: 4.75em;
     }
-
-    header .intro-text .skills {
-        font-size: 1.75em;
-    }
 }
 
 @media(min-width:768px) {
@@ -323,13 +319,18 @@ section p:first-child:first-letter {
     z-index: 2;
 }
 
-#portfolio .portfolio-item a:hover {
+#portfolio .portfolio-item a {
     text-decoration: none;
 }
 
 #portfolio .portfolio-item .card {
     background-color: rgba(0,0,0,0.1);
     padding: 10px;
+}
+
+#portfolio .portfolio-item a:hover .card,
+#portfolio .portfolio-item a:active .card {
+    background-color: rgba(0,0,0,0.15);
 }
 
 #portfolio .portfolio-item .card h3 {
