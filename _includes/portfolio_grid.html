@@ -9,14 +9,15 @@
                 </div>
             </div>
             <div class="row masonry-container">
-            {% for object in site.data.list %}
+            {% assign items = site.data.list | sort: "price" %}
+            {% for object in items reversed %}
                 {% if object.taken %}
                 {% else %}
                 <div class="col-md-6 portfolio-item">
                     <a href="{{ object.link }}" target="_blank">
                         <div class="card">
                             <h3>{{ object.name }}</h3>
-                            <img src="{{ object.img }}" class="img-responsive img-centered" />
+                            {% if object.img %}<img src="{{ object.img }}"/>{% endif %}
                             <p>{{ object.description }}</p>
                             <h4>$ {{ object.price }}</h4>
                         </div>
@@ -44,7 +45,7 @@
                     <a href="{{ object.link }}" target="_blank">
                         <div class="card">
                             <h3>{{ object.name }}</h3>
-                            <img src="{{ object.img }}" class="img-responsive img-centered" />
+                            {% if object.img %}<img src="{{ object.img }}"/>{% endif %}
                             <!-- <p>{{ object.description }}</p> -->
                             <!-- <h4>$ {{ object.price }}</h4> -->
                             <p>Donato da <i>{{ object.purchaser }}</i></p>
