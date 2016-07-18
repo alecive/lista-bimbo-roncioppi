@@ -85,11 +85,29 @@
   img: 
   link: 
 
+- name: Seggiolino macchina
+  description: Graco Nautilus 65 3-in-1 Harness Booster Convertible Car Sea 3-in-1 consente di proteggere il bambino da neonato fino a 100 lb. Semplicemente sicuro permette di regolare l'altezza del vostro imbrago e poggiatesta in un unico movimento, per garantire che il vostro bambino sia sempre fissata correttamente.
+  price: 149.99
+  img: https://images-na.ssl-images-amazon.com/images/I/91HatP9U7uL._SX522_.jpg
+  link: https://www.amazon.com/Graco-Nautilus-Harness-Booster-Convertible/dp/B00Y285W8G/ref=sr_1_6_s_it?s=baby-products&ie=UTF8&qid=1468866629&sr=1-6&keywords=car+seat
+
+- name: Summer Infant Classic Comfort Wood High Chair
+  description: Seggiolone dai 0 ai 3 anni
+  price: 102.99
+  img: https://images-na.ssl-images-amazon.com/images/I/81-uaHft2jL._SX522_.jpg
+  link: https://www.amazon.com/Summer-Infant-Classic-Comfort-Espresso/dp/B00CXGPNII/ref=sr_1_17_s_it?s=baby-products&ie=UTF8&qid=1468867342&sr=1-17&keywords=high+chairs+for+babies
+
 - name: Skip Hop Duo Special Edition Diaper Bag, French Stripe
   description: Borsa neonato, cinghia passeggino regolabile e maniglie laminati, fasciatoio imbottito, scomparto principale con chiusura a zip, Nove tasche.
   price: 68.00
   img: https://images-na.ssl-images-amazon.com/images/I/A1sHLBVZzKL._SX522_.jpg
   link: https://www.amazon.com/Skip-Hop-Special-Diaper-French/dp/B00B7XUVLW/ref=sr_1_1_s_it?s=baby-products&ie=UTF8&qid=1468419262&sr=1-1&keywords=Skip+Hop+Duo+Special+Edition+Diaper+Bag
+
+- name: Knuddelstuff 'Buckingham' Diaper Backpack
+  description: Zainetto facsiatoi e porta necessario neonato (colore blu, grazie!)
+  price: 65.99
+  img: https://images-na.ssl-images-amazon.com/images/I/91LvPyRB6pL._SY679_.jpg
+  link: https://www.amazon.com/Knuddelstuff-Buckingham-Diaper-Backpack/dp/B00UCGKIJU
   
 - name: Palestrina
   description: 
@@ -111,9 +129,22 @@
 
 - name: lettino
   description: La base letto si può montare a due altezze diverse. Un lato può essere rimosso quando il bambino è abbastanza grande per salire da solo
-  price: 99.00
-  img: http://www.ikea.com/us/en/images/products/gulliver-crib-white__70462_PE185759_S4.JPG
-  link: http://www.ikea.com/us/en/catalog/products/80248525/
+  price: 189.00
+  img: http://www.ikea.com/us/en/images/products/stuva-crib-with-drawers-blue__0469193_PE612024_S4.JPG
+  link: http://www.ikea.com/us/en/catalog/products/S49928499/
+
+- name: VYSSA VACKERT
+  description: materasso per lettino
+  price: 79.99
+  img: http://www.ikea.com/us/en/images/products/vyssa-vackert-mattress-for-crib-blue__0095513_PE234306_S4.JPG
+  link: http://www.ikea.com/us/en/catalog/products/70152877/ 
+
+- name: LEN
+  description: Proteggi materassino
+  price: 5.99
+  img: http://www.ikea.com/us/en/images/products/len-mattress-protector-white__0085726_PE213547_S4.JPG
+  link: http://www.ikea.com/us/en/catalog/products/40143304/
+
 
 - name: Carter's Keep Me Dry Waterproof Fitted Quilted Crib Pad
   description: coprimaterassino impermeabile
@@ -121,6 +152,12 @@
   img: https://images-na.ssl-images-amazon.com/images/I/81xwdkQzTBL._SX522_.jpg
   link: https://www.amazon.com/Carters-Waterproof-Quilted-Discontinued-Manufacturer/dp/B002UD65XQ?ie=UTF8&tag=blvisitor-20  
   
+- name: NANIG
+  description: completo letto, 4 pezzi, verde  
+  price: 24.99
+  img: http://www.ikea.com/us/en/images/products/nanig-piece-bed-linen-set-for-crib-green__0477375_PE616972_S4.JPG
+  link: http://www.ikea.com/us/en/catalog/products/20282428/
+
 - name: Lenzuola
   description: Lenzuolo ad angolo copri materasso
   price: 19.00
@@ -138,12 +175,24 @@
   price: 24.99
   img: http://target.scene7.com/is/image/Target/49180696?wid=450&hei=450&fmt=pjpeg
   link: http://www.target.com/p/summer-infant-swaddleme-2pk-swaddle/-/A-49180696
+
+- name: LEN
+  description: Cuscino per lettino
+  price: 5.99
+  img: http://www.ikea.com/us/en/images/products/len-crib-pillow-white__81779_PE207124_S4.JPG
+  link: http://www.ikea.com/us/en/catalog/products/72897210/
   
 - name: Copertina
   description: due copertine morbide
   price: 9.99
   img: http://target.scene7.com/is/image/Target/14772608?wid=450&hei=450&fmt=pjpeg
   link: http://www.target.com/p/circo-pack-n-play-play-yard-fitted-sheet-set/-/A-15035976
+
+- name: LEN
+  description: piuomone per lettino
+  price: 14.99
+  img: http://www.ikea.com/us/en/images/products/len-crib-comforter-white__00007_PE056780_S4.JPG
+  link: http://www.ikea.com/us/en/catalog/products/72899110/
 
 - name: Fasciatoio
   description: Questo fasciatoio cresce con il bambino, si puo' capovolgere la parte superiore e inferiore per trasformarlo facilmente in una scrivania o superficie di gioco.
