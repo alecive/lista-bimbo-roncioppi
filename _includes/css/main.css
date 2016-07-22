@@ -397,6 +397,22 @@ section p:first-child:first-letter {
     margin-left: 10px;
 }
 
+.nav-tabs li i {
+    display: inline;
+}
+
+@media(max-width: 1000px) {
+    .nav-tabs li i.sacrifice {
+        display: none;
+    }
+}
+
+@media(max-width: 700px) {
+    .nav-tabs li i.supersacrifice {
+        display: none;
+    }
+}
+
 .nav-tabs li.active,
 .nav-tabs li:hover {
     background-color: rgba(0,0,0,0.1);
