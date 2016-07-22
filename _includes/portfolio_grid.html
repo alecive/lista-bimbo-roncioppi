@@ -10,8 +10,20 @@
             </div>
 
             <ul class="nav-tabs" id="availableGifts">
-                <li><a data-toggle="tab" href="#priority">Prioritari</a></li>
-                <li><a data-toggle="tab" href="#non-priority">Secondari</a></li>
+                <li class="active">
+                    <i  class="star {{ include.type }} fa fa-star" style="display: inline;" aria-hidden="true"></i>
+                    <i  class="star {{ include.type }} fa fa-star" style="display: inline;" aria-hidden="true"></i>
+                    <a data-toggle="tab" href="#priority">Prioritari</a>
+                    <i  class="star {{ include.type }} fa fa-star" style="display: inline;" aria-hidden="true"></i>
+                    <i  class="star {{ include.type }} fa fa-star" style="display: inline;" aria-hidden="true"></i>
+                </li>
+                <li>
+                    <i  class="star {{ include.type }} fa fa-star" style="display: inline;" aria-hidden="true"></i>
+                    <i  class="star {{ include.type }} fa fa-star" style="display: inline;" aria-hidden="true"></i>
+                    <a data-toggle="tab" href="#non-priority">Secondari</a>
+                    <i  class="star {{ include.type }} fa fa-star" style="display: inline;" aria-hidden="true"></i>
+                    <i  class="star {{ include.type }} fa fa-star" style="display: inline;" aria-hidden="true"></i>
+                </li>
             </ul>
             <div class="tab-content">
                 <div id="priority" class="tab-pane fade in active">

@@ -52,7 +52,7 @@ h6,
 header .intro-text .name,
 header .intro-text .skills,
 section p:first-child:first-letter,
-#availableGifts li {
+.nav-tabs li {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 300;
@@ -325,13 +325,13 @@ section p:first-child:first-letter {
 }
 
 #portfolio .portfolio-item .card {
-    background-color: rgba(0,0,0,0.1);
+    /*background-color: rgba(0,0,0,0.1);*/
     padding: 10px;
 }
 
 #portfolio .portfolio-item a:hover .card,
 #portfolio .portfolio-item a:active .card {
-    background-color: rgba(0,0,0,0.15);
+    background-color: rgba(0,0,0,0.05);
 }
 
 #portfolio .portfolio-item .card h3 {
@@ -355,22 +355,27 @@ section p:first-child:first-letter {
     }
 }
 
-#availableGifts {
+.nav-tabs {
     width: 100%;
-    /*margin: 30px 0px;*/
+    margin-bottom: 0;
     padding: 0;
     border: none;
+    display: block;
+    min-height: 113px;
 }
 
-#availableGifts li {
+.nav-tabs li {
     width:50%;
     font-size: 2em;
     list-style: none;
     text-align: center;
-    margin: 30px 0px;
+    margin-top: 30px;
+    display: inline-block;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
-#availableGifts li a {
+.nav-tabs li a {
     text-decoration: none;
     background-color: transparent;
     border: none;
@@ -378,10 +383,29 @@ section p:first-child:first-letter {
     width: 100%;
 }
 
-#availableGifts li.active,
-#availableGifts li:hover {
-    color: #fff;
-    background-color: #{{ site.color.secondary }};
+.nav-tabs li.active a,
+.nav-tabs > li.active > a:hover,
+.nav-tabs > li.active > a:focus {
+    background-color: transparent;
+    border: none;
+    color: inherit;
+}
+
+.nav-tabs li a,
+.nav-tabs li i {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.nav-tabs li.active,
+.nav-tabs li:hover {
+    background-color: rgba(0,0,0,0.1);
+}
+
+.tab-content {
+    padding: 10px;
+    padding-top: 30px;
+    background-color: rgba(0,0,0,0.1);
 }
 
 .btn-outline {
