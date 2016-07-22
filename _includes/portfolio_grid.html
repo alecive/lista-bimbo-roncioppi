@@ -8,23 +8,53 @@
                     {% include star.html type="primary" %}
                 </div>
             </div>
-            <div class="row masonry-container">
-            {% assign items = site.data.list | sort: "price" %}
-            {% for object in items reversed %}
-                {% if object.taken %}
-                {% else %}
-                <div class="col-md-6 portfolio-item">
-                    <a href="{{ object.link }}" target="_blank">
-                        <div class="card">
-                            <h3>{{ object.name }}</h3>
-                            {% if object.img %}<img src="{{ object.img }}"/>{% endif %}
-                            <p>{{ object.description }}</p>
-                            <h4>$ {{ object.price }}</h4>
+
+            <ul class="nav-tabs" id="availableGifts">
+                <li><a data-toggle="tab" href="#priority">Prioritari</a></li>
+                <li><a data-toggle="tab" href="#non-priority">Secondari</a></li>
+            </ul>
+            <div class="tab-content">
+                <div id="priority" class="tab-pane fade in active">
+                    <div class="row">
+                    {% assign items = site.data.list | sort: "price" %}
+                    {% for object in items reversed %}
+                        {% if object.taken %}
+                        {% elsif object.important %}
+                        <div class="col-md-6 portfolio-item">
+                            <a href="{{ object.link }}" target="_blank">
+                                <div class="card">
+                                    <h3>{{ object.name }}</h3>
+                                    {% if object.img %}<img src="{{ object.img }}"/>{% endif %}
+                                    <p>{{ object.description }}</p>
+                                    <h4>$ {{ object.price }}</h4>
+                                </div>
+                            </a>
                         </div>
-                    </a>
+                        {% endif %}
+                    {% endfor %}
+                    </div>
                 </div>
-                {% endif %}
-            {% endfor %}
+                <div id="non-priority" class="tab-pane fade">
+                    <div class="row">
+                    {% assign items = site.data.list | sort: "price" %}
+                    {% for object in items reversed %}
+                        {% if object.taken %}
+                        {% elsif object.important %}
+                        {% else %}
+                        <div class="col-md-6 portfolio-item">
+                            <a href="{{ object.link }}" target="_blank">
+                                <div class="card">
+                                    <h3>{{ object.name }}</h3>
+                                    {% if object.img %}<img src="{{ object.img }}"/>{% endif %}
+                                    <p>{{ object.description }}</p>
+                                    <h4>$ {{ object.price }}</h4>
+                                </div>
+                            </a>
+                        </div>
+                        {% endif %}
+                    {% endfor %}
+                    </div>
+                </div>
             </div>
         </div>
     </section>
@@ -39,7 +69,8 @@
             </div>
             <div class="row">
 
-            {% for object in site.data.list %}
+            {% assign items = site.data.list | sort: "price" %}
+            {% for object in items reversed %}
                 {% if object.taken %}
                 <div class="col-md-6 portfolio-item">
                     <a href="{{ object.link }}" target="_blank">
