@@ -401,9 +401,26 @@ section p:first-child:first-letter {
     display: inline;
 }
 
+.nav-tabs li.active,
+.nav-tabs li:hover {
+    background-color: rgba(0,0,0,0.1);
+}
+
+.tab-content {
+    padding: 10px;
+    padding-top: 30px;
+    background-color: rgba(0,0,0,0.1);
+}
+
 @media(max-width: 1000px) {
     .nav-tabs li i.sacrifice {
         display: none;
+    }
+}
+
+@media(max-width: 767px) {
+    .tab-content {
+        padding: 0;
     }
 }
 
@@ -421,17 +438,6 @@ section p:first-child:first-letter {
     .nav-tabs li {
         font-size: 1.45em;
     }
-}
-
-.nav-tabs li.active,
-.nav-tabs li:hover {
-    background-color: rgba(0,0,0,0.1);
-}
-
-.tab-content {
-    padding: 10px;
-    padding-top: 30px;
-    background-color: rgba(0,0,0,0.1);
 }
 
 .btn-outline {

@@ -32,7 +32,7 @@
                     {% for object in items reversed %}
                         {% if object.taken %}
                         {% elsif object.important %}
-                        <div class="col-md-6 portfolio-item">
+                        <div class="col-sm-6 portfolio-item">
                             <a href="{{ object.link }}" target="_blank">
                                 <div class="card">
                                     <h3>{{ object.name }}</h3>
@@ -53,7 +53,7 @@
                         {% if object.taken %}
                         {% elsif object.important %}
                         {% else %}
-                        <div class="col-md-6 portfolio-item">
+                        <div class="col-sm-6 portfolio-item">
                             <a href="{{ object.link }}" target="_blank">
                                 <div class="card">
                                     <h3>{{ object.name }}</h3>
@@ -84,7 +84,7 @@
             {% assign items = site.data.list | sort: "price" %}
             {% for object in items reversed %}
                 {% if object.taken %}
-                <div class="col-md-6 portfolio-item">
+                <div class="col-sm-6 portfolio-item">
                     <a href="{{ object.link }}" target="_blank">
                         <div class="card">
                             <h3>{{ object.name }}</h3>
