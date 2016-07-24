@@ -93,18 +93,18 @@
   img: https://images-na.ssl-images-amazon.com/images/I/61YQy4QrByL._SX522_.jpg
   link: https://www.amazon.com/Inglesina-Table-Chair-Dining-Light/dp/B00J7YSJXK/ref=sr_1_12_s_it?s=baby-products&ie=UTF8&qid=1468453536&sr=1-12&keywords=Fast+Table+Chair+baby
 
-- name: Passeggino
-  description: Non abbiamo ancora trovato il nostro paseggino ideale. Abbiamo molte esigenze, infatti stiamo cercando un passeggino che abbia la navicella, cosi da poter essere anche lettino per i primi mesi, visto che abbiamo in programma un trasloco verso novembre. Inoltre, vorremmo poter andare a correre con il bambino. Appena avremmo trovato il modello perfetto vi renderemo partecipi.
-  price: 
-  img: 
-  link: 
+- name: Passeggino Graco Modes Jogger Travel System - Admiral
+  description: Finalmente abbiamo trovato il nostro paseggino ideale. E' un passeggino ottimo per la corsa, puo' essere usato da appena nati. Comprende il car seat, l'ovetto e la seduta dopo i sei mesi.
+  price: 379.00
+  img: http://www.toysrus.com/graphics/product_images/pTRU1-22065431_alternate1_dt.jpghttp://www.toysrus.com/graphics/product_images/pTRU1-22065431_alternate1_dt.jpg
+  link: http://www.toysrus.com/product/index.jsp?productId=69964016&gclid=CjwKEAjwq8y8BRCstYTm8qeT9mwSJACZGjUkFx4rnfq-4Koy5CBuVIKgYq9fFqvA7SV8GFyqkvq_ThoCyKrw_wcB&camp=PLAPPCG-_-PID22065431%3aBRUS&cagpspn=plab_22065431&eESource=CAPLA_DF%3a69964016%3aTRUS#videoAnchor
   important: yes
 
-- name: Sacco a pelo Passeggino
-  description: Non abbiamo ancora trovato il nostro paseggino ideale. Abbiamo molte esigenze, infatti stiamo cercando un passeggino che abbia la navicella, cosi da poter essere anche lettino per i primi mesi, visto che abbiamo in programma un trasloco verso novembre. Inoltre, vorremmo poter andare a correre con il bambino. Appena avremmo trovato il modello perfetto vi renderemo partecipi.
-  price: 
-  img: 
-  link: 
+- name: knit bundleme
+  description: Sacco a pelo Passeggino
+  price: 89.95
+  img: https://images-na.ssl-images-amazon.com/images/I/81Gnhw3i-FL._SX522_.jpg
+  link: http://www.jjcolecollections.com/knit-bundleme
   important: yes
 
 - name: Seggiolino macchina
@@ -223,6 +223,7 @@
   price: 14.99
   img: http://www.ikea.com/us/en/images/products/len-crib-comforter-white__00007_PE056780_S4.JPG
   link: http://www.ikea.com/us/en/catalog/products/72899110/
+  important: yes
 
 - name: Fasciatoio
   description: Questo fasciatoio cresce con il bambino, si puo' capovolgere la parte superiore e inferiore per trasformarlo facilmente in una scrivania o superficie di gioco.
@@ -242,15 +243,15 @@
   img: https://res.cloudinary.com/babylist/image/upload/t_app_500px_square/pinxohrh2vfvzbbxi2nb.jpg 
   link: http://www.landofnod.com/make-a-splash-changing-pad-cover-dot/f12397?t=6&a=185&bid=5628bid
 
-- name: SKÖTSAM 
-  description: fasciatoio gonfiabile
-  price: 6.99
-  img: http://www.ikea.com/us/en/images/products/skotsam-changing-pad-white__0244015_PE383255_S4.JPG
-  link: http://www.ikea.com/us/en/catalog/products/70251797/
+- name: Graco Dream Suite Bassinet, Mason 
+  description: Culla, con modalita' di vibrazione che concilia il sonno. Con una facile manovra si ribalta e diventa fasciatoio.
+  price: 149.99
+  img: https://images-na.ssl-images-amazon.com/images/I/61vhn3qXNML._SY679_.jpg
+  link: https://www.amazon.com/Graco-Dream-Suite-Bassinet-Mason/dp/B01BGVM0G8/ref=sr_1_5_s_it?s=baby-products&ie=UTF8&qid=1469316399&sr=1-5&keywords=bassinet
   important: yes
 
 - name: SKÖTSAM
-  description: Asciugamano copri fasciatoi
+  description: Asciugamano copri fasciatoi0
   price: 4.99
   img: http://www.ikea.com/us/en/images/products/skotsam-cover-white__0212462_PE376058_S4.JPG
   link: http://www.ikea.com/us/en/catalog/products/50253981/
