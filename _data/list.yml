@@ -170,6 +170,7 @@
   price: 5.99
   img: http://www.ikea.com/us/en/images/products/len-mattress-protector-white__0085726_PE213547_S4.JPG
   link: http://www.ikea.com/us/en/catalog/products/40143304/
+  important: yes
 
 
 - name: Carter's Keep Me Dry Waterproof Fitted Quilted Crib Pad
@@ -189,6 +190,7 @@
   price: 19.00
   img: http://target.scene7.com/is/image/Target/18839827?wid=450&hei=450&fmt=pjpeg
   link: http://www.target.com/p/babyletto-baby-fitted-crib-sheet/-/A-18839827
+  Important: yes
 
 - name: Lenzuola
   description: Set Lenzuola per lettino e navicella
@@ -251,7 +253,7 @@
   important: yes
 
 - name: SKÖTSAM
-  description: Asciugamano copri fasciatoi0
+  description: Asciugamano copri fasciatoio
   price: 4.99
   img: http://www.ikea.com/us/en/images/products/skotsam-cover-white__0212462_PE376058_S4.JPG
   link: http://www.ikea.com/us/en/catalog/products/50253981/
@@ -383,8 +385,27 @@
   link: http://www.landofnod.com/mushroom-rattles/f11495?t=6&a=185&bid=5628bid
   important: yes
 
+- name: Dexbaby Diaper Caddy and Nursery Organizer for Baby's
+  description: Busta porta oggetti 
+  price: 21.99
+  img: https://images-na.ssl-images-amazon.com/images/I/81CmqAExyaL._SX522_.jpg
+  link: https://www.amazon.com/Dexbaby-Diaper-Nursery-Organizer-Essentials/dp/B003ULP59M?ie=UTF8&tag=blvisitor-20   
+
+- name: Pannolini
+  description: Abbonamento mensile pannolini
+  price: 
+  img: 
+  link:  
+  important: yes  
+
+- name: 
+  description: Lampadario na forma di mongolfiera 
+  price: 
+  img: 
+  link: 
+
 - name: 
   description: 
   price: 
   img: 
-  link:    
+  link: 
