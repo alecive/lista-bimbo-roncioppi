@@ -14,7 +14,7 @@
   img: https://images-na.ssl-images-amazon.com/images/I/61yBZ6d9zQL._SX522_.jpg
   important: yes
 
-- name: ciuccio
+- name: Ciuccio
   description: Questo ciuccio ci e' stato consigliato da un'amica ostetrica. La sua particolarita' e' di avere un buco in corrispondenza della tettarella cosi' da non farlo rigettare dal bambino.
   price: 2.78
   img: https://images-na.ssl-images-amazon.com/images/I/41hOfD2fTmL.jpg
@@ -35,14 +35,14 @@
   link: https://www.amazon.com/Pacifier-Clip-2-Sided-Design-Holder/dp/B00YYDW86I/ref=sr_1_8_s_it?s=baby-products&ie=UTF8&qid=1468370155&sr=1-8&keywords=Booginhead+PaciGrip+Pacifier+Holder
   important: yes
 
-- name: biberon
+- name: Biberon
   description: Compatibile con tutte le pompe tira latte Medela, permettono la conservazione a lungo termine del latte materno, lavabile in lavastoviglie.
   price: 16.95
   img: https://images-na.ssl-images-amazon.com/images/I/81xDSHZgvZL._SX522_.jpg
   link: https://www.amazon.com/Medela-Breast-Milk-Feeding-Gift/dp/B001EU8IPY/ref=sr_1_1_s_it?s=baby-products&ie=UTF8&qid=1468419872&sr=1-1&keywords=Medela+Breastmilk+Feeding+Gift+Set
   important: yes
 
-- name:  Munchkin LATCH Deluxe Bottle and Valve Brush
+- name: Munchkin LATCH Deluxe Bottle and Valve Brush
   description: Pulisci biberon
   price: 4.28
   img: https://images-na.ssl-images-amazon.com/images/I/71etYS550VL._SX522_.jpg
@@ -239,8 +239,8 @@
   img: https://images-na.ssl-images-amazon.com/images/I/81%2Bev0VHJHL._SL1500_.jpg
   link: https://www.amazon.com/Summer-Infant-Contoured-Changing-16-5/dp/B009EDSWJA?ie=UTF8&tag=blvisitor-20 
 
-- name: Make a Splash Changing Pad Cover (Dot) Make a Splash Changing Pad Cover (Dot) 
-  description: Copri materassino fasciatoio  
+- name: Make a Splash Changing Pad Cover
+  description: Copri materassino fasciatoio (a pois!)  
   price: 35.00
   img: https://res.cloudinary.com/babylist/image/upload/t_app_500px_square/pinxohrh2vfvzbbxi2nb.jpg 
   link: http://www.landofnod.com/make-a-splash-changing-pad-cover-dot/f12397?t=6&a=185&bid=5628bid
@@ -294,8 +294,8 @@
   link: https://www.amazon.com/The-Honest-Company-Baby-Arrival/dp/B00LVSYGRS/ref=sr_1_1_s_it?s=baby-products&ie=UTF8&qid=1468371462&sr=1-1&keywords=Honest+Baby+Arrival+Gift+Set
   important: yes
 
-- name: Baby Washcloths | 6 Extra Soft Large Organic Bamboo Baby Shower Ideas 
-  description: 6 ascigamanini in bamboo
+- name: Baby Washcloths
+  description: 6 asciugamanini in bamboo
   price: 14.99
   img: https://images-na.ssl-images-amazon.com/images/I/912cxO1m%2BHL._SX522_.jpg
   link: https://www.amazon.com/Baby-Washcloths-Organic-Bamboo-Assorted/dp/B0198MZQYA/ref=sr_1_15_s_it?s=baby-products&ie=UTF8&qid=1469154084&sr=1-15 
@@ -410,7 +410,7 @@
   img: https://images-na.ssl-images-amazon.com/images/I/61FvlpW3MCL._SY679_.jpg
   link: https://www.amazon.com/Philips-AVENT-Bottle-Warmer-Fast/dp/B00LJ64JR4?ie=UTF8&tag=blpdp-20
 
-- name: Baby Back Pack Cross Country Carrier Stand Child Kid Sun Shade Visor Green
+- name: Baby Carrier Stand
   description: Zainetto porta bimbo per camminate
   price: 91.99
   img: https://images-na.ssl-images-amazon.com/images/I/810KxfXz4oL._SX522_.jpg
