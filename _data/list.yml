@@ -36,7 +36,7 @@
   important: yes
 
 - name: biberon
-  description: Compatibile con tutte le pompe Medela seno, in modo da poter pompare, archiviare e nutrite con un contenitore, ottimo per la conservazione a lungo termine, Lavabile in lavastoviglie
+  description: Compatibile con tutte le pompe tira latte Medela, permettono la conservazione a lungo termine del latte materno, lavabile in lavastoviglie.
   price: 16.95
   img: https://images-na.ssl-images-amazon.com/images/I/81xDSHZgvZL._SX522_.jpg
   link: https://www.amazon.com/Medela-Breast-Milk-Feeding-Gift/dp/B001EU8IPY/ref=sr_1_1_s_it?s=baby-products&ie=UTF8&qid=1468419872&sr=1-1&keywords=Medela+Breastmilk+Feeding+Gift+Set
@@ -50,7 +50,7 @@
   important: yes
 
 - name: Gerber Unisex-Baby Newborn 3 Pack Terry Dribbler Bib 
-  description: 3 Bavaglini neonato
+  description: 3 bavaglini per neonato
   price: 6.99
   img: https://images-na.ssl-images-amazon.com/images/I/81Aqiuq5gxL._UY879_.jpg
   link: https://www.amazon.com/dp/B00KD5AIFY/ref=twister_B00EMG3SOI?_encoding=UTF8&psc=1 
@@ -70,7 +70,7 @@
   link: https://www.amazon.com/Bumkins-SuperBib-Pack--Blue-OnTheGo/dp/B00A0BYBD6/ref=sr_1_3_s_it?s=baby-products&ie=UTF8&qid=1468420863&sr=1-3&keywords=Bumkins+SuperBib+3+Pack
   
 - name: Adorable Waterproof Silicone Soft Bib with Food Catcher 
-  description: 2 baviglini in silicone con raccoglitore e due posate
+  description: 2 bavaglini in silicone con raccoglitore e due posate
   price: 14.10
   img: https://images-na.ssl-images-amazon.com/images/I/91pMTRf%2BCJL._SX522_.jpg
   link: https://www.amazon.com/Adorable-Waterproof-Silicone-Soft-Catcher/dp/B01AUVPG4S/ref=sr_1_4_s_it?s=baby-products&ie=UTF8&qid=1468421151&sr=1-4&keywords=BabyBjorn+Soft+Bib+2+Pack
@@ -82,7 +82,7 @@
   link: https://www.amazon.com/dp/B01EKAZ4QU?psc=1
 
 - name: Magic Bullet Baby Bullet Baby Care System 
-  description: Produci il cibo sano e nutrizionale per il bambino di un'intera settimana in meno di 5 minuti, Include frullatore, ciotola, lama per miscelare, lama di fresatura, facile pop vassoio in lotti di silicone, tazze, spatola, 1 contenitore richiudibile.
+  description: Robot da cucina con cui cucinare il cibo sano e nutriente per il bambino di un'intera settimana in meno di 5 minuti. Include frullatore, ciotola, lama per miscelare, lama di fresatura, facile pop vassoio in lotti di silicone, tazze, spatola, 1 contenitore richiudibile.
   price: 50.99
   img: https://images-na.ssl-images-amazon.com/images/I/814ykZ%2BVs5L._SL1500_.jpg
   link: https://www.amazon.com/Magic-Bullet-Baby-Care-System/dp/B004V5BTUA
@@ -108,7 +108,7 @@
   important: yes
 
 - name: Seggiolino macchina
-  description: Graco Nautilus 65 3-in-1 Harness Booster Convertible Car Sea 3-in-1 consente di proteggere il bambino da neonato fino a 100 lb. Semplicemente sicuro permette di regolare l'altezza del vostro imbrago e poggiatesta in un unico movimento, per garantire che il vostro bambino sia sempre fissata correttamente.
+  description: Graco Nautilus 65 3-in-1 Harness Booster Convertible Car Seat 3-in-1 consente di proteggere il bambino da neonato fino a 100 lb. Semplicemente sicuro permette di regolare l'altezza del vostro imbrago e poggiatesta in un unico movimento, per garantire che il vostro bambino sia sempre fissato correttamente.
   price: 149.99
   img: https://images-na.ssl-images-amazon.com/images/I/91HatP9U7uL._SX522_.jpg
   link: https://www.amazon.com/Graco-Nautilus-Harness-Booster-Convertible/dp/B00Y285W8G/ref=sr_1_6_s_it?s=baby-products&ie=UTF8&qid=1468866629&sr=1-6&keywords=car+seat
@@ -120,14 +120,14 @@
   link: https://www.amazon.com/Summer-Infant-Classic-Comfort-Espresso/dp/B00CXGPNII/ref=sr_1_17_s_it?s=baby-products&ie=UTF8&qid=1468867342&sr=1-17&keywords=high+chairs+for+babies
 
 - name: Skip Hop Duo Special Edition Diaper Bag, French Stripe
-  description: Borsa neonato, cinghia passeggino regolabile e maniglie laminati, fasciatoio imbottito, scomparto principale con chiusura a zip, Nove tasche.
+  description: Borsa neonato con cinghia per fissarlo al passeggino regolabile, fasciatoio imbottito, scomparto principale con chiusura a zip, Nove tasche.
   price: 68.00
   img: https://images-na.ssl-images-amazon.com/images/I/A1sHLBVZzKL._SX522_.jpg
   link: https://www.amazon.com/Skip-Hop-Special-Diaper-French/dp/B00B7XUVLW/ref=sr_1_1_s_it?s=baby-products&ie=UTF8&qid=1468419262&sr=1-1&keywords=Skip+Hop+Duo+Special+Edition+Diaper+Bag
   important: yes
 
 - name: Knuddelstuff 'Buckingham' Diaper Backpack
-  description: Zainetto facsiatoi e porta necessario neonato (colore blu, grazie!)
+  description: Zainetto fasciatoi e porta necessario neonato (colore blu, grazie!)
   price: 65.99
   img: https://images-na.ssl-images-amazon.com/images/I/91LvPyRB6pL._SY679_.jpg
   link: https://www.amazon.com/Knuddelstuff-Buckingham-Diaper-Backpack/dp/B00UCGKIJU
@@ -154,13 +154,13 @@
   important: yes
 
 - name: lettino
-  description: La base letto si può montare a due altezze diverse. Un lato può essere rimosso quando il bambino è abbastanza grande per salire da solo
+  description: La base letto si può montare a due altezze diverse. Un lato può essere rimosso quando il bambino è abbastanza grande da salire da solo.
   price: 189.00
   img: http://www.ikea.com/us/en/images/products/stuva-crib-with-drawers-blue__0469193_PE612024_S4.JPG
   link: http://www.ikea.com/us/en/catalog/products/S49928499/
 
 - name: VYSSA VACKERT
-  description: materasso per lettino
+  description: Materasso per lettino
   price: 79.99
   img: http://www.ikea.com/us/en/images/products/vyssa-vackert-mattress-for-crib-blue__0095513_PE234306_S4.JPG
   link: http://www.ikea.com/us/en/catalog/products/70152877/ 
@@ -174,13 +174,13 @@
 
 
 - name: Carter's Keep Me Dry Waterproof Fitted Quilted Crib Pad
-  description: coprimaterassino impermeabile
+  description: Coprimaterassino impermeabile
   price: 29.99
   img: https://images-na.ssl-images-amazon.com/images/I/81xwdkQzTBL._SX522_.jpg
   link: https://www.amazon.com/Carters-Waterproof-Quilted-Discontinued-Manufacturer/dp/B002UD65XQ?ie=UTF8&tag=blvisitor-20  
   
 - name: NANIG
-  description: completo letto, 4 pezzi, verde  
+  description: Completo letto, 4 pezzi, verde  
   price: 24.99
   img: http://www.ikea.com/us/en/images/products/nanig-piece-bed-linen-set-for-crib-green__0477375_PE616972_S4.JPG
   link: http://www.ikea.com/us/en/catalog/products/20282428/
@@ -214,14 +214,14 @@
   important: yes
 
 - name: Copertina
-  description: due copertine morbide
+  description: Due copertine morbide
   price: 9.99
   img: http://target.scene7.com/is/image/Target/14772608?wid=450&hei=450&fmt=pjpeg
   link: http://www.target.com/p/circo-pack-n-play-play-yard-fitted-sheet-set/-/A-15035976
   important: yes
 
 - name: LEN
-  description: piuomone per lettino
+  description: Piuomone per lettino
   price: 14.99
   img: http://www.ikea.com/us/en/images/products/len-crib-comforter-white__00007_PE056780_S4.JPG
   link: http://www.ikea.com/us/en/catalog/products/72899110/
@@ -302,14 +302,14 @@
   important: yes
   
 - name: Accappatoio
-  description: Simpatici animaletti coccoleranno il nostro bimbo dopo la doccia e se andra' a fare sport con quei due pazzi dei suoi genitori, ne avra' bisogno di piu' di uno
+  description: Simpatici animaletti coccoleranno il nostro bimbo dopo la doccia e se andra' a fare sport con quei due pazzi dei suoi genitori, ne avra' bisogno di piu' di uno.
   price: 11.50
   img: https://images-na.ssl-images-amazon.com/images/I/811ejuSt2-L._SX522_.jpg
   link: https://www.amazon.com/Luvable-Friends-Animal-Hooded-Woven/dp/B00A69H9U4/ref=sr_1_2_s_it/000-2485638-7607734?s=baby-products&ie=UTF8&qid=1467758597&sr=1-2
   important: yes
   
 - name: Accappatoio
-  description: Simpatici animaletti coccoleranno il nostro bimbo dopo la doccia, i soggetti sono stati scelti da Cive e se il primo e' una volpe indovinate un po' per quale motivo ha scelto il secondo? Che siano entrambi di buon auspicio
+  description: Simpatici animaletti coccoleranno il nostro bimbo dopo la doccia, i soggetti sono stati scelti da Cive e se il primo e' una volpe indovinate un po' per quale motivo ha scelto il secondo? Che siano entrambi di buon auspicio.
   price: 12.98
   img: https://images-na.ssl-images-amazon.com/images/I/81nJSoGLsxL._SX522_.jpg
   link: https://www.amazon.com/Luvable-Friends-Animal-Hooded-Woven/dp/B00A69H9U4/ref=sr_1_2_s_it/000-2485638-7607734?s=baby-products&ie=UTF8&qid=1467758597&sr=1-2
@@ -323,21 +323,21 @@
   important: yes
 
 - name: The First Years American Red Cross Baby Healthcare And Grooming Kit
-  description:  Tutto il necessario affinche' una madre/infermiera si possa sentire realizzata
+  description:  Tutto il necessario affinche' una madre/infermiera si possa sentire realizzata.
   price: 18.86
   img: https://images-na.ssl-images-amazon.com/images/I/71ZwaGCOrjL._SX522_.jpg
   link: https://www.amazon.com/American-Red-Cross-Healthcare-Grooming/dp/B000LZFZVS/ref=sr_1_1_s_it?s=baby-products&ie=UTF8&qid=1468369902&sr=1-1&keywords=American+Red+Cross+Deluxe+Baby+Healthcare+and+Grooming+Kit
   important: yes
 
 - name: Zutano Unisex Baby Cozie Elf Romper 
-  description:  L'elfo tutina Zutano è stato progettato per mantenere il bambino al caldo e alla moda durante le temperature più fredde
+  description:  L'elfo tutina Zutano è stato progettato per mantenere il bambino al caldo e alla moda durante le temperature più fredde.
   price: 24.97
   img: https://res.cloudinary.com/babylist/image/upload/t_app_500px_square/bzwtd35hd5unztbzviv8.jpg
   link: https://www.amazon.com/dp/B0085JHVOG/ref=twister_B003VYAM78
   important: yes
 
 - name: Eric Carle 2 in 1 Stroller and Infant Carrier Bag, Bunting Bag
-  description: il tessuto esterno è in microfibra resistente agli agenti atmosferici l'interno è foderato con morbido pile accogliente.
+  description: Il tessuto esterno è in microfibra resistente agli agenti atmosferici l'interno è foderato con morbido pile accogliente.
   price: 29.99
   img: https://res.cloudinary.com/babylist/image/upload/t_app_500px_square/zbgjr4bpzfcfcqaajhwy.jpg 
   link: https://babyli.st/gp/hungry-caterpillar-bunting-bag/10364/13875
@@ -358,21 +358,21 @@
   important: yes
 
 - name: The First Years Learning Curve First Keys Teether
-  description: Giochino adatto da mangiucchiare
+  description: Giochino adatto da mangiucchiare.
   price: 2.41
   img: https://images-na.ssl-images-amazon.com/images/I/81pq%2Bs0awNL._SY679_.jpg
   link: https://www.amazon.com/First-Years-Learning-Curve-Teether/dp/B000V2Y5BW?ie=UTF8&tag=blvisitor-20
   important: yes
 
 - name: Sassy Floor Mirror, Blue
-  description: Specchio giocattolo utile per aiutarlo ad incrementare la percezione 
+  description: Specchio giocattolo utile per aiutarlo ad incrementare la percezione. 
   price: 14.99
   img: https://images-na.ssl-images-amazon.com/images/I/61KpMG0bzGL._SX522_.jpg
   link: https://www.amazon.com/Sassy-80030-Floor-Mirror-Blue/dp/B002J4U8M0?ie=UTF8&tag=blvisitor-20
   important: yes
 
 - name: Baby Einstein Take Along Tunes Musical Toy
-  description: giochino musicale
+  description: Giochino musicale
   price: 6.99
   img: https://images-na.ssl-images-amazon.com/images/I/41szCbN2t5L.jpg
   link: https://www.amazon.com/Baby-Einstein-Along-Tunes-Musical/dp/B000YDDF6O?ie=UTF8&tag=blvisitor-20
@@ -392,8 +392,8 @@
   link: https://www.amazon.com/Dexbaby-Diaper-Nursery-Organizer-Essentials/dp/B003ULP59M?ie=UTF8&tag=blvisitor-20   
 
 - name: Pannolini
-  description: Abbonamento mensile pannolini, effettueremo un abbonamento su amazon che ci permettera' di ricevere a casa mensilmente la quantita' di pannolini desiderata. Potete dunque regalarci 1, 2, 3 o quanti volete mesi di abbonamento. Per questo dono, consigliamo il bonifico.
-  price: 34.99
+  description: Abbonamento mensile pannolini, effettueremo un abbonamento su amazon che ci permettera' di ricevere a casa mensilmente la quantita' di pannolini desiderata. Potete dunque regalarci 1, 2, 3 ecc. mesi di abbonamento. Per questo dono, consigliamo il bonifico, il prezzo indica il costo mensile.
+  price: 34.99  
   img: https://images-na.ssl-images-amazon.com/images/I/81yPNoh5mZL._SX522_.jpg
   link: https://www.amazon.com/dp/B00DGN23UI/ref=sxr_pa_click_within_right_2?pf_rd_t=301&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=2329824862&pf_rd_i=box+gym+for+baby&pf_rd_r=7145GTPM80H7BWME384G&pf_rd_s=desktop-rhs-carousels&psc=1 
   important: yes  
