@@ -19,6 +19,13 @@
 
 body {
     overflow-x: hidden;
+    font-size: 1.3rem;
+}
+
+body,
+.card-block p:first-child:first-letter
+{
+    font-family: 'Vollkorn', serif;
 }
 
 p {
