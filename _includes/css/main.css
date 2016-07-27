@@ -474,7 +474,7 @@ section .container .row p:first-child:first-letter {
     }
 }
 
-@media(max-width: 420px) {
+@media(max-width: 550px) {
     .nav-tabs .nav-item {
         font-size: 1.45em;
     }
