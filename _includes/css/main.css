@@ -52,7 +52,7 @@ h6,
 header .intro-text .name,
 header .intro-text .skills,
 section p:first-child:first-letter,
-.nav-tabs li {
+.nav-tabs .nav-item {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 300;
@@ -353,15 +353,11 @@ section p:first-child:first-letter {
     }
 }
 
-
-#portfolio .card a {
-    text-decoration: none;
-}
-
 #portfolio .card {
     /*background-color: rgba(0,0,0,0.1);*/
     background-color: rgba(0,0,0,0.05);
     padding: 10px;
+    border: none;
 }
 
 #portfolio .card:hover,
@@ -369,8 +365,8 @@ section p:first-child:first-letter {
     background-color: rgba(0,0,0,0.1);
 }
 
-#portfolio .portfolio-item .card h3 {
-    margin-top: 6px;
+#portfolio .card a {
+    text-decoration: none;
 }
 
 #portfolio .card img {
@@ -397,29 +393,39 @@ section p:first-child:first-letter {
     padding: 0;
     border: none;
     display: block;
-    min-height: 113px;
 }
 
-.nav-tabs li {
+.nav-tabs .nav-item {
     width:50%;
     font-size: 2em;
     list-style: none;
     text-align: center;
+    margin: 0!important;
     margin-top: 30px;
     display: inline-block;
-    padding-top: 20px;
-    padding-bottom: 20px;
 }
 
-.nav-tabs li a {
+.nav-tabs .nav-item .nav-link,
+.nav-tabs .nav-item .nav-link.active,
+.nav-tabs .nav-item .nav-link:hover {
     text-decoration: none;
     background-color: transparent;
     border: none;
     color: inherit;
     width: 100%;
+    margin: 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 0;
+    padding-right: 0;
 }
 
-.nav-tabs li.active a,
+.nav-tabs .nav-item .nav-link.active,
+.nav-tabs .nav-item .nav-link:hover {
+    background-color: rgba(0,0,0,0.1);
+}
+
+.nav-tabs .nav-item.active a,
 .nav-tabs > li.active > a:hover,
 .nav-tabs > li.active > a:focus {
     background-color: transparent;
@@ -427,20 +433,16 @@ section p:first-child:first-letter {
     color: inherit;
 }
 
-.nav-tabs li a,
-.nav-tabs li i {
+.nav-tabs .nav-item a,
+.nav-tabs .nav-item i {
     margin-right: 10px;
     margin-left: 10px;
 }
 
-.nav-tabs li i {
+.nav-tabs .nav-item i {
     display: inline;
 }
 
-.nav-tabs li.active,
-.nav-tabs li:hover {
-    background-color: rgba(0,0,0,0.1);
-}
 
 .tab-content {
     padding: 10px;
@@ -448,8 +450,8 @@ section p:first-child:first-letter {
     background-color: rgba(0,0,0,0.1);
 }
 
-@media(max-width: 1000px) {
-    .nav-tabs li i.sacrifice {
+@media(max-width: 62em) {
+    .nav-tabs .nav-item i.sacrifice {
         display: none;
     }
 }
@@ -460,18 +462,18 @@ section p:first-child:first-letter {
     }
 }
 
-@media(max-width: 700px) {
-    .nav-tabs li i.supersacrifice {
+@media(max-width: 48em) {
+    #portfolio .card {
+        background: none;
+    }
+
+    .nav-tabs .nav-item i.supersacrifice {
         display: none;
     }
 }
 
 @media(max-width: 420px) {
-    .nav-tabs {
-        min-height: 101px;
-    }
-
-    .nav-tabs li {
+    .nav-tabs .nav-item {
         font-size: 1.45em;
     }
 }

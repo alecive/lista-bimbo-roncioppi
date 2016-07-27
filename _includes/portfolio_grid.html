@@ -9,26 +9,31 @@
                 </div>
             </div>
 
-            <ul class="nav-tabs" id="availableGifts">
-                <li class="active">
-                    <i  class="sacrifice star {{ include.type }} fa fa-star" aria-hidden="true"></i>
-                    <i  class="supersacrifice star {{ include.type }} fa fa-star" aria-hidden="true"></i>
-                    <a data-toggle="tab" href="#priority">Prioritari</a>
-                    <i  class="supersacrifice star {{ include.type }} fa fa-star" aria-hidden="true"></i>
-                    <i  class="sacrifice star {{ include.type }} fa fa-star" aria-hidden="true"></i>
+            {% assign items = site.data.list | sort: "price" %}
+
+            <ul class="nav nav-tabs">
+                <li class="nav-item">
+                    <a  class="nav-link active" data-toggle="tab" href="#priority">
+                        <i  class="sacrifice star {{ include.type }} fa fa-star" aria-hidden="true"></i>
+                        <i  class="supersacrifice star {{ include.type }} fa fa-star" aria-hidden="true"></i>
+                        Prioritari
+                        <i  class="supersacrifice star {{ include.type }} fa fa-star" aria-hidden="true"></i>
+                        <i  class="sacrifice star {{ include.type }} fa fa-star" aria-hidden="true"></i>
+                    </a>
                 </li>
-                <li>
-                    <i  class="sacrifice star {{ include.type }} fa fa-star" aria-hidden="true"></i>
-                    <i  class="supersacrifice star {{ include.type }} fa fa-star" aria-hidden="true"></i>
-                    <a data-toggle="tab" href="#non-priority">Secondari</a>
-                    <i  class="supersacrifice star {{ include.type }} fa fa-star" aria-hidden="true"></i>
-                    <i  class="sacrifice star {{ include.type }} fa fa-star" aria-hidden="true"></i>
+                <li class="nav-item">
+                    <a  class="nav-link" data-toggle="tab" href="#non-priority">
+                        <i  class="sacrifice star {{ include.type }} fa fa-star" aria-hidden="true"></i>
+                        <i  class="supersacrifice star {{ include.type }} fa fa-star" aria-hidden="true"></i>
+                        Secondari
+                        <i  class="supersacrifice star {{ include.type }} fa fa-star" aria-hidden="true"></i>
+                        <i  class="sacrifice star {{ include.type }} fa fa-star" aria-hidden="true"></i>
+                    </a>
                 </li>
             </ul>
             <div class="tab-content">
                 <div id="priority" class="tab-pane fade in active">
                     <div class="card-columns">
-                    {% assign items = site.data.list | sort: "price" %}
                     {% for object in items reversed %}
                         {% if object.taken %}
                         {% elsif object.important %}
@@ -40,7 +45,7 @@
                                 {% if object.img %}<img src="{{ object.img }}" alt="Card image"/>{% endif %}
                                 <div class="card-block">
                                     <p class="card-text">{{ object.description }}</p>
-                                    <a href="#" class="card-link">{{ object.price }}</a>
+                                    <h4>$ {{ object.price }}</h4>
                                 </div>
                             </a>
                         </div>
@@ -49,18 +54,19 @@
                     </div>
                 </div>
                 <div id="non-priority" class="tab-pane fade">
-                    <div class="row">
-                    {% assign items = site.data.list | sort: "price" %}
+                    <div class="card-columns">
                     {% for object in items reversed %}
                         {% if object.taken %}
                         {% elsif object.important %}
                         {% else %}
-                        <div class="col-sm-6 portfolio-item">
+                        <div class="card">
                             <a href="{{ object.link }}" target="_blank">
-                                <div class="card">
-                                    <h3>{{ object.name }}</h3>
-                                    {% if object.img %}<img src="{{ object.img }}"/>{% endif %}
-                                    <p>{{ object.description }}</p>
+                                <div class="card-block">
+                                    <h4 class="card-title">{{ object.name }}</h4>
+                                </div>
+                                {% if object.img %}<img src="{{ object.img }}" alt="Card image"/>{% endif %}
+                                <div class="card-block">
+                                    <p class="card-text">{{ object.description }}</p>
                                     <h4>$ {{ object.price }}</h4>
                                 </div>
                             </a>
@@ -83,85 +89,22 @@
             </div>
             <div class="row">
 
-            {% assign items = site.data.list | sort: "price" %}
-            {% for object in items reversed %}
-                {% if object.taken %}
-                <div class="col-sm-6 portfolio-item">
-                    <a href="{{ object.link }}" target="_blank">
+                    <div class="card-columns">
+                    {% for object in items reversed %}
+                        {% if object.taken %}
                         <div class="card">
-                            <h3>{{ object.name }}</h3>
-                            {% if object.img %}<img src="{{ object.img }}"/>{% endif %}
-                            <!-- <p>{{ object.description }}</p> -->
-                            <!-- <h4>$ {{ object.price }}</h4> -->
-                            <p>Donato da <i>{{ object.purchaser }}</i></p>
-                            <p>Messaggio: <i>{{ object.message }}</i></p>
+                            <a href="{{ object.link }}" target="_blank">
+                                <div class="card-block">
+                                    <h4 class="card-title">{{ object.name }}</h4>
+                                </div>
+                                {% if object.img %}<img src="{{ object.img }}" alt="Card image"/>{% endif %}
+                                <div class="card-block">
+                                    <p class="card-text">Donato da <i>{{ object.purchaser }}</i></p>
+                                    <p class="card-text">Messaggio: <i>{{ object.message }}</i></p>
+                                </div>
+                            </a>
                         </div>
-                    </a>
-                </div>
-                {% endif %}
-            {% endfor %}
-
-                <div class="card-columns">
-                  <div class="card">
-                    <img class="card-img-top" data-src="..." alt="Card image cap">
-                    <div class="card-block">
-                      <h4 class="card-title">Card title that wraps to a new line</h4>
-                      <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                        {% endif %}
+                    {% endfor %}
                     </div>
-                  </div>
-                  <div class="card card-block">
-                    <blockquote class="card-blockquote">
-                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
-                      <footer>
-                        <small class="text-muted">
-                          Someone famous in <cite title="Source Title">Source Title</cite>
-                        </small>
-                      </footer>
-                    </blockquote>
-                  </div>
-                  <div class="card">
-                    <img class="card-img-top" data-src="..." alt="Card image cap">
-                    <div class="card-block">
-                      <h4 class="card-title">Card title</h4>
-                      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
-                      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-                    </div>
-                  </div>
-                  <div class="card card-block card-inverse card-primary text-xs-center">
-                    <blockquote class="card-blockquote">
-                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat.</p>
-                      <footer>
-                        <small>
-                          Someone famous in <cite title="Source Title">Source Title</cite>
-                        </small>
-                      </footer>
-                    </blockquote>
-                  </div>
-                  <div class="card card-block text-xs-center">
-                    <h4 class="card-title">Card title</h4>
-                    <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
-                    <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-                  </div>
-                  <div class="card">
-                    <img class="card-img" data-src="..." alt="Card image">
-                  </div>
-                  <div class="card card-block text-xs-right">
-                    <blockquote class="card-blockquote">
-                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
-                      <footer>
-                        <small class="text-muted">
-                          Someone famous in <cite title="Source Title">Source Title</cite>
-                        </small>
-                      </footer>
-                    </blockquote>
-                  </div>
-                  <div class="card card-block">
-                    <h4 class="card-title">Card title</h4>
-                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
-                    <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-                  </div>
-                </div>
-
             </div>
-        </div>
-    </section>
