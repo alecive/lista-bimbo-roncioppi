@@ -75,7 +75,6 @@ hr.star {
     border: 0;
     border-top: solid 5px;
     text-align: center;
-    /*display: inline-block;*/
 }
 
 i.star {
@@ -96,15 +95,40 @@ hr.star.primary {
 }
 
 @media(max-width: 550px) {
+    i.star {
+        min-width: 90px;
+    }
+}
+
+@media(max-width: 500px) {
+    i.star {
+        min-width: 75px;
+    }
+}
+
+@media(max-width: 425px) {
     i.sacrifice {
         display: none;
     }
 }
 
-@media(max-width: 350px) {
+@media(max-width: 200px) {
     i.supersacrifice {
         display: none;
     }
+}
+
+@media(max-width: 576px) {
+    hr.star {
+        margin: 15px auto 20px;
+        border-top: solid 3px;
+    }
+
+    i.star,
+    .nav-tabs .nav-item i {
+        font-size: 24px;
+    }
+
 }
 
 .img-centered {
@@ -264,6 +288,12 @@ section .container .row p:first-child:first-letter {
 
     section.first {
         padding-top: 75px;
+    }
+}
+
+@media(max-width:576px) {
+    section h2 {
+        font-size: 2.4em;
     }
 }
 
@@ -445,7 +475,6 @@ section .container .row p:first-child:first-letter {
     display: none;
 }
 
-
 .tab-content {
     padding: 10px;
     padding-top: 30px;
@@ -474,17 +503,11 @@ section .container .row p:first-child:first-letter {
     #portfolio .card {
         background: none;
     }
-
-
 }
 
-@media(max-width: 550px) {
+@media(max-width: 576px) {
     .nav-tabs .nav-item {
         font-size: 1.45em;
-    }
-
-    section h2 {
-        font-size: 2.4em;
     }
 }
 
