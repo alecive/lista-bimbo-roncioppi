@@ -365,16 +365,31 @@ section.success {
     text-decoration: none;
 }
 
-#portfolio .card img {
-/*    position: relative;
-    float: left;
-    width:  200px;
-    height: 200px;*/
+#facceda .card-columns {
+    -webkit-column-count: 6;
+    -moz-column-count: 6;
+    column-count: 6;
+    -webkit-column-gap: 0px; /* Chrome, Safari, Opera */
+    -moz-column-gap: 0px; /* Firefox */
+    column-gap: 0px;
+}
+
+#facceda .card {
+    border-radius: 0px;
+    margin: 0;
+    border: none;
+}
+
+#portfolio .card img,
+#facceda .card img {
     max-width: 100%;
     background-position: 50% 50%;
     background-repeat:   no-repeat;
     background-size:     cover;
-    /*margin: 10px;*/
+}
+
+#facceda .card img {
+    width: 100%;
 }
 
 @media(min-width:767px) {
