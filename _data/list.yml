@@ -338,12 +338,15 @@
   link: https://www.amazon.com/dp/B0085JHVOG/ref=twister_B003VYAM78
   important: yes
 
-- name: Eric Carle 2 in 1 Stroller and Infant Carrier Bag, Bunting Bag
+- name: Eric Carle 2 in 1 Stroller and Infant Carrier Bag
   description: Il tessuto esterno è in microfibra resistente agli agenti atmosferici l'interno è foderato con morbido pile accogliente.
   price: 29.99
   img: https://res.cloudinary.com/babylist/image/upload/t_app_500px_square/zbgjr4bpzfcfcqaajhwy.jpg 
   link: https://babyli.st/gp/hungry-caterpillar-bunting-bag/10364/13875
   important: yes
+  taken: yes
+  purchaser: Massi, Angela e Giulio
+  message: Spulciando la lista ho notato il sacco/bruco e non ho resistito :)
 
 - name: Zutano Unisex Baby Fleece Hat 
   description: Cappellino a forma di orsetto.
