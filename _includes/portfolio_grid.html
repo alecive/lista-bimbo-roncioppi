@@ -99,7 +99,7 @@
                                 </div>
                                 {% if object.img %}<img src="{{ object.img }}" alt="Card image"/>{% endif %}
                                 <div class="card-block">
-                                    <p class="card-text">Donato da: <i>{{ object.purchaser }}</i></p>
+                                    {% if object.purchaser %}<p class="card-text">Donato da: <i>{{ object.purchaser }}</i></p>{% endif %}
                                     {% if object.message %}<p class="card-text">Messaggio: <i>{{ object.message }}</i></p>{% endif %}
                                 </div>
                             </a>
