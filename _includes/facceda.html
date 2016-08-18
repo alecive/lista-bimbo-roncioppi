@@ -14,7 +14,7 @@
                     {% assign items = site.data.mosaic %}
                     {% for object in items %}
                         <div class="card">
-                            <a href="img/mosaic/{{ object.filename }}" target="_blank">
+                            <a href="{% if object.link %}{{ object.link }}{% else %}img/mosaic/{{ object.filename }}{% endif %}" target="_blank">
                                 <img class="card-img-top" src="img/mosaic/{{ object.filename }}" alt="Card image cap">
                             </a>
                         </div>
