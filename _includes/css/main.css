@@ -286,7 +286,7 @@ section.success {
     font-size: 65px;
     line-height: 50px;
     padding-top: 10px;
-    padding-right: 4px; 
+    padding-right: 4px;
     margin: 0;
     font-weight: 100;
 }
@@ -306,6 +306,10 @@ section.success {
     section h2 {
         font-size: 2.6em;
     }
+}
+
+.section-header {
+    margin-bottom: 40px;
 }
 
 #portfolio {
@@ -363,6 +367,10 @@ section.success {
 
 #portfolio .card a {
     text-decoration: none;
+}
+
+#facceda .container-fluid {
+    padding: 0px;
 }
 
 #facceda .card-columns {
