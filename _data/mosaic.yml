@@ -62,6 +62,10 @@
   filename: 13.Emi.jpg
 
 
+- name: Mari
+  filename: 14.Mari.jpg
+
+
 - name: Poldo
   filename: 13.Poldo.jpg
 
@@ -82,16 +86,16 @@
   filename: 11.CarolaeSimo.jpg
 
 
-- name: Mari
-  filename: 14.Mari.jpg
-
-
 - name: Mancioppi
   filename: 8.ZiaPaolaNonnaGianna.jpg
 
 
 - name: Matte
   filename: 14.Matte.jpg
+
+
+- name: Enri
+  filename: 20.Enri.jpg
 
 
 - name: Nonna Pina
@@ -116,10 +120,6 @@
 
 - name: Cesco
   filename: 19.Cesco.jpg
-
-
-- name: Enri
-  filename: 20.Enri.jpg
 
 
 - name: Eli
