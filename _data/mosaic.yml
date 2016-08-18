@@ -14,6 +14,18 @@
   filename: 3.Michi.jpg
   link:
 
+- name: MammaAle
+  filename: 7.MammaAle.jpg
+  link:
+
+- name: IvaVale
+  filename: 16.IvaVale.jpg
+  link:
+
+- name: Mancioppi
+  filename: 8.Mancioppi.jpg
+  link:
+
 - name: Benny
   filename: 4.Benny.jpg
   link:
@@ -30,32 +42,16 @@
   filename: 7.Roncone.jpg
   link:
 
-- name: MammaAle
-  filename: 7.MammaAle.jpg
-  link:
-
-- name: Mancioppi
-  filename: 8.Mancioppi.jpg
-  link:
-
-- name: Mancioppi
-  filename: 8.ZiaPaolaNonnaGianna.jpg
-  link:
-
 - name: Polly
   filename: 9.Polly.jpg
-  link:
-
-- name: Nonna Pina
-  filename: 10.NonnaPina.jpg
   link:
 
 - name: Simo
   filename: 11.Simo.jpg
   link:
 
-- name: CarolaeSimo
-  filename: 11.CarolaeSimo.jpg
+- name: Olli
+  filename: 14.Olli.jpg
   link:
 
 - name: Dibba
@@ -82,28 +78,28 @@
   filename: 14.Daddi.jpg
   link:
 
+- name: CarolaeSimo
+  filename: 11.CarolaeSimo.jpg
+  link:
+
 - name: Mari
   filename: 14.Mari.jpg
+  link:
+
+- name: Mancioppi
+  filename: 8.ZiaPaolaNonnaGianna.jpg
   link:
 
 - name: Matte
   filename: 14.Matte.jpg
   link:
 
-- name: Olli
-  filename: 14.Olli.jpg
+- name: Nonna Pina
+  filename: 10.NonnaPina.jpg
   link:
 
 - name: Mimmo
   filename: 15.Mimmo.jpg
-  link:
-
-- name: Colleghi Gio
-  filename: 16.ColleghiGio.jpg
-  link:
-
-- name: IvaVale
-  filename: 16.IvaVale.jpg
   link:
 
 - name: Vince
@@ -112,6 +108,10 @@
 
 - name: Rudy
   filename: 18.Rudy.jpg
+  link:
+
+- name: Colleghi Gio
+  filename: 16.ColleghiGio.jpg
   link:
 
 - name: Cesco
