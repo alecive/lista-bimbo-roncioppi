@@ -286,7 +286,7 @@ section.success {
     font-size: 65px;
     line-height: 50px;
     padding-top: 10px;
-    padding-right: 4px; 
+    padding-right: 4px;
     margin: 0;
     font-weight: 100;
 }
@@ -308,6 +308,10 @@ section.success {
     }
 }
 
+.section-header {
+    margin-bottom: 40px;
+}
+
 #portfolio {
     background-image: url("img/baby_background.svg");
     background-repeat: repeat;
@@ -317,11 +321,23 @@ section.success {
     z-index: 2;
 }
 
+#facceda .card-columns {
+    -webkit-column-count: 1;
+    -moz-column-count: 1;
+    column-count: 1;
+}
+
 @media (min-width: 34em) {
     .card-columns {
         -webkit-column-count: 1;
         -moz-column-count: 1;
         column-count: 1;
+    }
+
+    #facceda .card-columns {
+        -webkit-column-count: 2;
+        -moz-column-count: 2;
+        column-count: 2;
     }
 }
 
@@ -331,6 +347,12 @@ section.success {
         -moz-column-count: 2;
         column-count: 2;
     }
+
+    #facceda .card-columns {
+        -webkit-column-count: 3;
+        -moz-column-count: 3;
+        column-count: 3;
+    }
 }
 
 @media (min-width: 62em) {
@@ -339,6 +361,12 @@ section.success {
         -moz-column-count: 2;
         column-count: 2;
     }
+
+    #facceda .card-columns {
+        -webkit-column-count: 4;
+        -moz-column-count: 4;
+        column-count: 4;
+    }
 }
 
 @media (min-width: 75em) {
@@ -346,6 +374,12 @@ section.success {
         -webkit-column-count: 3;
         -moz-column-count: 3;
         column-count: 3;
+    }
+
+    #facceda .card-columns {
+        -webkit-column-count: 6;
+        -moz-column-count: 6;
+        column-count: 6;
     }
 }
 
@@ -365,16 +399,33 @@ section.success {
     text-decoration: none;
 }
 
-#portfolio .card img {
-/*    position: relative;
-    float: left;
-    width:  200px;
-    height: 200px;*/
+#facceda .container-fluid {
+    padding: 0px;
+}
+
+#facceda .card-columns {
+    -webkit-column-gap: 0px; /* Chrome, Safari, Opera */
+    -moz-column-gap: 0px; /* Firefox */
+    column-gap: 0px;
+}
+
+#facceda .card {
+    border-radius: 0px;
+    margin: 0;
+    border: none;
+}
+
+#portfolio .card img,
+#facceda .card img {
     max-width: 100%;
     background-position: 50% 50%;
     background-repeat:   no-repeat;
     background-size:     cover;
-    /*margin: 10px;*/
+}
+
+#facceda .card img {
+    width: 100%;
+    border-radius: 0px;
 }
 
 @media(min-width:767px) {
