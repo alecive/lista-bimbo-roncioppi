@@ -212,6 +212,8 @@
   img: http://target.scene7.com/is/image/Target/49180696?wid=450&hei=450&fmt=pjpeg
   link: http://www.target.com/p/summer-infant-swaddleme-2pk-swaddle/-/A-49180696
   important: yes
+  taken: yes
+  purchaser: Marina, Ugo ed Elena
 
 - name: LEN
   description: Cuscino per lettino
@@ -259,6 +261,7 @@
   link: https://www.amazon.com/Graco-Dream-Suite-Bassinet-Mason/dp/B01BGVM0G8/ref=sr_1_5_s_it?s=baby-products&ie=UTF8&qid=1469316399&sr=1-5&keywords=bassinet
   important: yes
   taken: yes
+  purchaser: Secret :)
 
 - name: SKÖTSAM
   description: Asciugamano copri fasciatoio
@@ -332,6 +335,7 @@
   link: https://www.amazon.com/NoseFrida-The-Snotsucker-Nasal-Aspirator/dp/B00171WXII/ref=sr_1_1_s_it?s=baby-products&ie=UTF8&qid=1468369649&sr=1-1&keywords=Nosefrida+The+Snotsucker+Nasal+Aspirator
   important: yes
   taken: yes
+  purchaser: Secret :)
 
 - name: The First Years American Red Cross Baby Healthcare And Grooming Kit
   description:  Tutto il necessario affinche' una madre/infermiera si possa sentire realizzata.
@@ -347,6 +351,7 @@
   link: https://www.amazon.com/dp/B0085JHVOG/ref=twister_B003VYAM78
   important: yes
   taken: yes
+  purchaser: Secret :)
 
 - name: Eric Carle 2 in 1 Stroller and Infant Carrier Bag
   description: Il tessuto esterno è in microfibra resistente agli agenti atmosferici l'interno è foderato con morbido pile accogliente.
