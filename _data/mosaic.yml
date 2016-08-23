@@ -18,7 +18,6 @@
   filename: 7.MammaAle.jpg
   link: https://goo.gl/photos/vUmBJXFd7EeZTjLs8
 
-
 - name: IvaVale
   filename: 16.IvaVale.jpg
   link: https://goo.gl/photos/4L8X6NWPY6tV8ReU8
@@ -26,7 +25,6 @@
 - name: Mancioppi
   filename: 8.Mancioppi.jpg
   link: https://goo.gl/photos/3TNWj7JxMqh15RH86
-
 
 - name: Benny
   filename: 4.Benny.jpg
@@ -44,7 +42,6 @@
   filename: 7.Roncone.jpg
   link: https://goo.gl/photos/vUmBJXFd7EeZTjLs8
 
-
 - name: Polly
   filename: 9.Polly.jpg
   link: https://goo.gl/photos/bsd3JpXAwWu9a93d6
@@ -57,11 +54,9 @@
   filename: 14.Olli.jpg
   link: https://goo.gl/photos/RfEsN8yqEgWeSGTu5
 
-
 - name: Dibba
   filename: 12.Dibba.jpg
   link: https://goo.gl/photos/cr5pTbKxVTV3Un5j9
-
 
 - name: Emi
   filename: 13.Emi.jpg
@@ -83,11 +78,9 @@
   filename: 14.AmiciSestri.jpg
   link: https://goo.gl/photos/RfEsN8yqEgWeSGTu5
 
-
 - name: Daddi
   filename: 14.Daddi.jpg
   link: https://goo.gl/photos/RfEsN8yqEgWeSGTu5
-
 
 - name: CarolaeSimo
   filename: 11.CarolaeSimo.jpg
@@ -101,7 +94,6 @@
   filename: 14.Matte.jpg
   link: https://goo.gl/photos/RfEsN8yqEgWeSGTu5
 
-
 - name: Enri
   filename: 20.Enri.jpg
   link: https://goo.gl/photos/h9VxQD35FL1W1kLY7
@@ -114,7 +106,6 @@
   filename: 15.Mimmo.jpg
   link: https://goo.gl/photos/mWy9jVjsA9UWrGSFA
 
-
 - name: Vince
   filename: 16.Vince.jpg
   link: https://goo.gl/photos/4L8X6NWPY6tV8ReU8
@@ -122,7 +113,6 @@
 - name: Rudy
   filename: 18.Rudy.jpg
   link: https://goo.gl/photos/FjPpSTwbMwvP53Fr7
-
 
 - name: Colleghi Gio
   filename: 16.ColleghiGio.jpg
@@ -132,16 +122,13 @@
   filename: 19.Cesco.jpg
   link: https://goo.gl/photos/2fHGzFaKA2adeoSs8
 
-
 - name: Eli
   filename: 23.Eli.jpg
-
-
-- name: Marci
-  filename: 23.Marci.jpg
-
 
 - name: OttaVero
   filename: 17.OttaVero.jpg
   link: https://goo.gl/photos/9XnKJtF4JxQb5Rzc6
+
+- name: Marci
+  filename: 23.Marci.jpg
 
