@@ -27,6 +27,9 @@
   img: https://images-na.ssl-images-amazon.com/images/I/61FSv-ugi3L._SX522_.jpg
   link: https://www.amazon.com/dp/B00AHO5SO2?psc=1
   important: yes
+  taken: yes
+  purchaser: Sarah's parents
+
 
 - name: Catenella per ciuccio
   description: Per chi conosce bene la Giorgia potra' pensare che le tonalita' siano state scelte da lei...ma e' un maschietto!
@@ -299,6 +302,8 @@
   img: https://images-na.ssl-images-amazon.com/images/I/61ZaEOSrUaL._SX522_.jpg
   link: https://www.amazon.com/Duckymeter-Baby-Bath-Floating-Thermometer/dp/B0064CTIC4/ref=sr_1_1_s_it?s=baby-products&ie=UTF8&qid=1468369110&sr=1-1&keywords=Duckymeter
   important: yes
+  taken: yes
+  purchaser: Sarah's parents
 
 - name: Sassy Bathtime Pals Squirt and Float Toys
   description:  Giochi per bagnetto
@@ -348,6 +353,8 @@
   img: https://images-na.ssl-images-amazon.com/images/I/81nJSoGLsxL._SX522_.jpg
   link: https://www.amazon.com/Luvable-Friends-Animal-Hooded-Woven/dp/B00A69H9U4/ref=sr_1_2_s_it/000-2485638-7607734?s=baby-products&ie=UTF8&qid=1467758597&sr=1-2
   important: yes
+  taken: yes
+  purchaser: Sarah's parents
 
 - name: NoseFrida The Snotsucker Nasal Aspirator
   description:  Aspiramuco dal naso
