@@ -320,6 +320,10 @@
   img: https://images-na.ssl-images-amazon.com/images/I/51bfYZ8a0SL.jpg
   link: https://www.amazon.com/The-Honest-Company-Baby-Arrival/dp/B00LVSYGRS/ref=sr_1_1_s_it?s=baby-products&ie=UTF8&qid=1468371462&sr=1-1&keywords=Honest+Baby+Arrival+Gift+Set
   important: yes
+  taken: yes
+  purchaser: Fillo, Gobbe, Poldo e Salsa
+  message: Perche' il tuo CULETTO possa essere sempre pulito#asciutto#profumato.
+
 
 - name: Baby Washcloths
   description: 6 asciugamanini in bamboo
@@ -327,6 +331,9 @@
   img: https://images-na.ssl-images-amazon.com/images/I/912cxO1m%2BHL._SX522_.jpg
   link: https://www.amazon.com/Baby-Washcloths-Organic-Bamboo-Assorted/dp/B0198MZQYA/ref=sr_1_15_s_it?s=baby-products&ie=UTF8&qid=1469154084&sr=1-15
   important: yes
+  taken: yes
+  purchaser: Fillo, Gobbe, Poldo e Salsa
+  message: Perche' il tuo CULETTO possa essere sempre pulito#asciutto#profumato.
 
 - name: Accappatoio
   description: Simpatici animaletti coccoleranno il nostro bimbo dopo la doccia e se andra' a fare sport con quei due pazzi dei suoi genitori, ne avra' bisogno di piu' di uno.
