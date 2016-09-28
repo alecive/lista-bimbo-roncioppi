@@ -182,6 +182,10 @@
   price: 189.00
   img: http://www.ikea.com/us/en/images/products/stuva-crib-with-drawers-blue__0469193_PE612024_S4.JPG
   link: http://www.ikea.com/us/en/catalog/products/S49928499/
+  taken: yes
+  purchaser: Angela, Alessandra, Bibi, Daniela, Eleonora, Marinella, Rosalba e Sergio
+  message: Cari Gio e Ale, siamo davvero felici per voi, e lo siamo altrettanto nel regalarvi questo lettino nel quale speriamo Leonardo faccia lunghi sonni! Benvenuti nel club dei genitori “Judoka’s parents”...ora potrete condividere con noi l’ “ansia” che si prova sugli spalti!
+
 
 - name: VYSSA VACKERT
   description: Materasso per lettino
@@ -222,6 +226,8 @@
   img: https://images-na.ssl-images-amazon.com/images/I/91lWMBKnlSL._SX522_.jpg
   link: https://www.amazon.com/aden-anais-Classic-Swaddle-Blanket/dp/B002SW3B0O
   important: yes
+  taken: yes
+  purchaser: Elisa, Marta e Veronica
 
 - name: Lenzuola
   description: SwaddleMe, sacco a pelo per lettino, riproduce le sensazioni che il neonato provava nel grembo materno.
@@ -371,6 +377,8 @@
   img: https://images-na.ssl-images-amazon.com/images/I/71ZwaGCOrjL._SX522_.jpg
   link: https://www.amazon.com/American-Red-Cross-Healthcare-Grooming/dp/B000LZFZVS/ref=sr_1_1_s_it?s=baby-products&ie=UTF8&qid=1468369902&sr=1-1&keywords=American+Red+Cross+Deluxe+Baby+Healthcare+and+Grooming+Kit
   important: yes
+  purchaser: Emi
+  message: Non ho voluto regalartelo prima per questioni di scaramanzia e direi proprio che ha portato fortuna! Sportivamente parlando non sarò sicuramente la tua erede, ma ho imparato molto da te e chissà che in questo campo l'allieva non superi la maestra. Comunque anche se questo piccolo dono ti farà sentire realizzata in questo periodo da finta mamma casalinga, spero tu non lo debba usare troppo presto sul pupo!
 
 - name: Zutano Unisex Baby Cozie Elf Romper
   description:  L'elfo tutina Zutano è stato progettato per mantenere il bambino al caldo e alla moda durante le temperature più fredde.
