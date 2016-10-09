@@ -15,7 +15,7 @@
   important: yes
 
 - name: Ciuccio
-  description: Questo ciuccio ci e' stato consigliato da un'amica ostetrica. La sua particolarita' e' di avere un buco in corrispondenza della tettarella cosi' da non farlo rigettare dal bambino.
+  description: Gia' acquistati per necessita', attendono un donatore! :) Questo ciuccio ci e' stato consigliato da un'amica ostetrica. La sua particolarita' e' di avere un buco in corrispondenza della tettarella cosi' da non farlo rigettare dal bambino.
   price: 2.78
   img: https://images-na.ssl-images-amazon.com/images/I/41hOfD2fTmL.jpg
   link: https://www.amazon.com/Philips-AventBPA-Soothie-Pacifier-months/dp/B0081ZOV06/ref=sr_1_2_s_it?s=baby-products&ie=UTF8&qid=1468199019&sr=1-2&keywords=pacifier
@@ -464,7 +464,7 @@
   link: https://www.etsy.com/listing/221451572/child-nursery-lamp-teddy-bear-hot-air?ref=market
 
 - name: Philips AVENT Bottle Warmer
-  description: Scalda biberon. Gia' acquistati per necessita', attendono un donatore! :)
+  description: Scalda biberon. Gia' acquistato per necessita', attendono un donatore! :)
   price: 32.93
   img: https://images-na.ssl-images-amazon.com/images/I/61FvlpW3MCL._SY679_.jpg
   link: https://www.amazon.com/Philips-AVENT-Bottle-Warmer-Fast/dp/B00LJ64JR4?ie=UTF8&tag=blpdp-20
@@ -475,8 +475,14 @@
   img: https://images-na.ssl-images-amazon.com/images/I/810KxfXz4oL._SX522_.jpg
   link: https://www.amazon.com/Cross-Country-Carrier-Stand-Child/dp/B00LH7MVM0/ref=sr_1_4_s_it?s=baby-products&ie=UTF8&qid=1469578338&sr=1-4&keywords=back+pack+baby
 
-- name:
-  description:
-  price:
-  img:
-  link:
+- name: Guss Car Seat Rain Cover
+  description: Gia' acquistata per necessita', attende un donatore! :) Cappottina antipioggia per passeggino. Utile in queste uggiose giornate autunnali!
+  price: 29.99
+  img: https://images-na.ssl-images-amazon.com/images/I/51kaIzHCEkL.jpg
+  link: https://www.amazon.com/guzzie-Guss-Seat-Rain-Cover/dp/B00VC554YE/ref=sr_1_2_a_it?ie=UTF8&qid=1476026867&sr=8-2&keywords=car+seat+rain+cover
+
+- name: Guss Car Seat Rain Cover
+  description: Gia' acquistata per necessita', attende un donatore! :) Cappottina antipioggia per passeggino. Utile in queste uggiose giornate autunnali!
+  price: 29.99
+  img: https://images-na.ssl-images-amazon.com/images/I/51kaIzHCEkL.jpg
+  link: https://www.amazon.com/guzzie-Guss-Seat-Rain-Cover/dp/B00VC554YE/ref=sr_1_2_a_it?ie=UTF8&qid=1476026867&sr=8-2&keywords=car+seat+rain+cover
