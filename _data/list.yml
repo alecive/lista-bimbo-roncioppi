@@ -480,9 +480,4 @@
   price: 29.99
   img: https://images-na.ssl-images-amazon.com/images/I/51kaIzHCEkL.jpg
   link: https://www.amazon.com/guzzie-Guss-Seat-Rain-Cover/dp/B00VC554YE/ref=sr_1_2_a_it?ie=UTF8&qid=1476026867&sr=8-2&keywords=car+seat+rain+cover
-
-- name: Guss Car Seat Rain Cover
-  description: Gia' acquistata per necessita', attende un donatore! :) Cappottina antipioggia per passeggino. Utile in queste uggiose giornate autunnali!
-  price: 29.99
-  img: https://images-na.ssl-images-amazon.com/images/I/51kaIzHCEkL.jpg
-  link: https://www.amazon.com/guzzie-Guss-Seat-Rain-Cover/dp/B00VC554YE/ref=sr_1_2_a_it?ie=UTF8&qid=1476026867&sr=8-2&keywords=car+seat+rain+cover
+  important: yes
