@@ -3,11 +3,11 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <img class="img-fluid" src="img/empty.svg" alt="">
+                    <img class="img-fluid" src="/img/empty.svg" alt="">
                     <div class="intro-text">
-                        <span class="name">{{ site.title }}</span>
+                        <span class="name">{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</span>
                         {% include star.html type="light" %}
-                        <span class="skills">{{ site.skills }}</span>
+                        <span class="skills">{% if page.description %}{{ page.description }}{% else %}{{ site.skills }}{% endif %}</span>
                     </div>
                 </div>
             </div>
