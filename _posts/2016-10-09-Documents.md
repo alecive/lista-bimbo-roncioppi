@@ -78,6 +78,10 @@ L'Ufficio può essere contattato dal lunedì al venerdì al numero (212) 439-860
 
 # Secretary of the State of Connecticut - Authentication Unit
 
+[Link all'ufficio](http://www.ct.gov/sots/cwp/view.asp?q=392130)
+
 30 Trinity Street
+
 Hartford, CT 06115
+
 tel. (860) 509 6100
