@@ -57,6 +57,10 @@ Se i genitori non sono coniugati oppure hanno contratto matrimonio meno di 180 g
 
 La madre nubile di figlio con padre non dichiarato, dovra' fare un riconoscimento di maternita' presso questo Consolato, prendendo un appuntamento, telefonico o via e-mail, con l'Ufficio di stato civile, portando il certificato di nascita del figlio, long form con apostille e traduzione in italiano e il proprio passaporto con visto o green card.
 
+### Apostille
+
+http://www.ct.gov/sots/cwp/view.asp?q=392130
+
 ## Passport
 
 
