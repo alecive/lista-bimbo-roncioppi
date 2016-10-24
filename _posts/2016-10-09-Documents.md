@@ -30,8 +30,8 @@ description: ""
 
 [Qui c'è scritto molto](http://www.cityclerk.nyc.gov/html/marriage/records.shtml): for the certificate to be valid outside the United States, you must complete two additional steps:
 
-  1. Take the document to the nearest County Clerk's Office to authenticate the City Clerk's hand signature, for a fee of $3. Borough of Manhattan County of New York Norman Goodman, County Clerk 60 Centre Street, Room 161 New York, NY 10007 646-386-5955
-  2. Take the document to the New York State Department of State for the authentication of the County Clerk's signature and the attachment of an "Apostille," for a fee of $10. The Department of State is located at: 123 William Street 19th Floor New York, NY 10038
+  1. Take the document to the nearest County Clerk's Office to authenticate the City Clerk's hand signature, for a fee of $3. [Borough of Manhattan County of New York Norman Goodman, County Clerk 60 Centre Street, Room 161 New York, NY 10007](https://goo.gl/maps/2irH6K4iRP62) 646-386-5955
+  2. Take the document to the New York State Department of State for the authentication of the County Clerk's signature and the attachment of an "Apostille," for a fee of $10. The Department of State is located at: [123 William Street 19th Floor New York, NY 10038](https://goo.gl/maps/GRRSBmJLTAJ2)
 
 Al fine di registrare il matrimonio in Italia, occorre rivolgersi al Consolato Generale d'Italia in New York (690, Park Avenue) con la copia dei rispettivi passaporti e con il documento in originale in Extended Form (License and Certificate of performing marriage) rilasciato dal New York City Clerk, timbrato dal County Clerk (60 Centre Street, New York) e legalizzato con Apostille rilasciata dal Department of State (123, William Street, New York).
 
