@@ -39,11 +39,23 @@
   important: yes
 
 - name: Biberon
-  description: Gia' acquistati per necessita', attendono un donatore! :) Compatibili con tutte le pompe tira latte Medela, permettono la conservazione a lungo termine del latte materno, lavabile in lavastoviglie.
+  description: Compatibili con tutte le pompe tira latte Medela, permettono la conservazione a lungo termine del latte materno, lavabile in lavastoviglie.
   price: 16.95
   img: https://images-na.ssl-images-amazon.com/images/I/81xDSHZgvZL._SX522_.jpg
   link: https://www.amazon.com/Medela-Breast-Milk-Feeding-Gift/dp/B001EU8IPY/ref=sr_1_1_s_it?s=baby-products&ie=UTF8&qid=1468419872&sr=1-1&keywords=Medela+Breastmilk+Feeding+Gift+Set
   important: yes
+  taken: yes
+  purchaser: Manuela, Carlotta, Simo, Ago, Alba, Parro, Marti e Tea
+
+  name: Biberon
+  description: Compatibili con tutte le pompe tira latte Medela, permettono la conservazione a lungo termine del latte materno, lavabile in lavastoviglie.
+  price: 16.95
+  img: https://images-na.ssl-images-amazon.com/images/I/81xDSHZgvZL._SX522_.jpg
+  link: https://www.amazon.com/Medela-Breast-Milk-Feeding-Gift/dp/B001EU8IPY/ref=sr_1_1_s_it?s=baby-products&ie=UTF8&qid=1468419872&sr=1-1&keywords=Medela+Breastmilk+Feeding+Gift+Set
+  important: yes
+  taken: yes
+  purchaser: Polly
+  message: Siccome sei un gran mangione spero che tutti questi biberon ti possano sfamare a sufficienza!!!
 
 - name: Munchkin LATCH Deluxe Bottle and Valve Brush
   description: Pulisci biberon
@@ -264,6 +276,9 @@
   price: 149.00
   img: http://www.ikea.com/us/en/images/products/stuva-changing-table-with-drawers-white__0370865_PE551919_S4.JPG
   link: http://www.ikea.com/us/en/catalog/products/S99124030/#/S19124029
+  taken: yes
+  purchaser: Zio Fabio, Zia Chiara, Sara e Manu
+  message: Quando nasce un bambino nascono anche una mamma e un papa', auguri a tutti e tre per un evento che riempira' di gioia ogni giorno della vostra vita. Vi giunga il nostro abbraccio piu' grande dell'oceano.
 
 - name: Summer Infant Contoured Changing Pad
   description: Materassino fasciatoio
@@ -324,6 +339,8 @@
   img: https://images-na.ssl-images-amazon.com/images/I/71zFwxEwzqL._SX522_.jpg
   link: https://www.amazon.com/Babyganics-Baby-Safe-World-Essentials/dp/B00ROA3LOQ/ref=sr_1_7_s_it?s=baby-products&ie=UTF8&qid=1468371462&sr=1-7&keywords=Honest+Baby+Arrival+Gift+Set
   important: yes
+   taken: yes
+  purchaser: Manuela, Carlotta, Simo, Ago, Alba, Parro, Marti e Tea
 
 - name: Baby Arrival Gift Set
   description:  Prodotti per l'igiene personale
@@ -464,10 +481,13 @@
   link: https://www.etsy.com/listing/221451572/child-nursery-lamp-teddy-bear-hot-air?ref=market
 
 - name: Philips AVENT Bottle Warmer
-  description: Scalda biberon. Gia' acquistato per necessita', attendono un donatore! :)
+  description: Scalda biberon.
   price: 32.93
   img: https://images-na.ssl-images-amazon.com/images/I/61FvlpW3MCL._SY679_.jpg
   link: https://www.amazon.com/Philips-AVENT-Bottle-Warmer-Fast/dp/B00LJ64JR4?ie=UTF8&tag=blpdp-20
+  taken: yes
+  purchaser: Polly
+  message: un piccolo dono per il bellissimo Leonardo, che tu possa avere sempre tanto latte pronto il prima possibile!!!
 
 - name: Baby Carrier Stand
   description: Zainetto porta bimbo per camminate
