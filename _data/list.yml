@@ -47,7 +47,7 @@
   taken: yes
   purchaser: Manuela, Carlotta, Simo, Ago, Alba, Parro, Marti e Tea
 
-  name: Biberon
+- name: Biberon
   description: Compatibili con tutte le pompe tira latte Medela, permettono la conservazione a lungo termine del latte materno, lavabile in lavastoviglie.
   price: 16.95
   img: https://images-na.ssl-images-amazon.com/images/I/81xDSHZgvZL._SX522_.jpg
@@ -339,7 +339,7 @@
   img: https://images-na.ssl-images-amazon.com/images/I/71zFwxEwzqL._SX522_.jpg
   link: https://www.amazon.com/Babyganics-Baby-Safe-World-Essentials/dp/B00ROA3LOQ/ref=sr_1_7_s_it?s=baby-products&ie=UTF8&qid=1468371462&sr=1-7&keywords=Honest+Baby+Arrival+Gift+Set
   important: yes
-   taken: yes
+  taken: yes
   purchaser: Manuela, Carlotta, Simo, Ago, Alba, Parro, Marti e Tea
 
 - name: Baby Arrival Gift Set
