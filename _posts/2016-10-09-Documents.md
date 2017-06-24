@@ -3,6 +3,7 @@ layout: post
 title: Documenti
 category: secret
 description: ""
+permalink: documents.html
 ---
 
 # Contents
