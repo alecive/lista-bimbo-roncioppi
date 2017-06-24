@@ -11,13 +11,13 @@ Class prefix        .col-xs-        .col-sm-    .col-md-    .col-lg-    .col-xl-
 
 @font-face {
     font-family: 'Montserrat';
-    src: url("{{ site.url }}/fonts/Montserrat-Bold.otf") format("opentype");
+    src: url("{{ site.url }}/fonts/Montserrat-Light.otf") format("opentype");
     font-weight: 700;
 }
 
 @font-face {
     font-family: 'Montserrat';
-    src: url("{{ site.url }}/fonts/Montserrat-Light.otf") format("opentype");
+    src: url("{{ site.url }}/fonts/Montserrat-UltraLight.otf") format("opentype");
     font-weight: 300;
 }
 
@@ -111,6 +111,11 @@ i.star {
 hr.star.primary {
     border-color: #{{ site.color.secondary }};
     color: #{{ site.color.secondary }};
+}
+
+#article h1
+{
+    margin-top: 20px;
 }
 
 @media(max-width: 550px) {
