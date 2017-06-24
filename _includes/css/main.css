@@ -80,7 +80,8 @@ header .intro-text .skills,
 }
 
 header .intro-text .name {
-    font-weight: 700
+    font-weight: 700;
+    overflow-wrap: break-word;
 }
 
 header .intro-text .skills {
@@ -215,7 +216,7 @@ header img {
 
 header .intro-text .name {
     display: block;
-    font-size: 4em;
+    font-size: 3em;
 }
 
 header .intro-text .skills {
