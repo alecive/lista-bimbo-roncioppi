@@ -1,0 +1,68 @@
+    {% assign items = site.data.baptism | sort: "price" %}
+    <!-- Portfolio Grid Section -->
+    <section id="portfolio">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-xs-center section-header">
+                    <h2>Available gifts</h2>
+                    {% include star.html type="primary" %}
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12 text-xs-center">
+                    <div class="card-columns">
+                    {% for object in items reversed %}
+                        {% if object.taken %}
+                        {% else %}
+                        <div class="card">
+                            <a href="{{ object.link }}" target="_blank">
+                                <div class="card-block">
+                                    <h4 class="card-title">{{ object.name }}</h4>
+                                </div>
+                                {% if object.img %}<img src="{{ object.img }}" alt="Card image"/>{% endif %}
+                                <div class="card-block">
+                                    <p class="card-text">{{ object.description }}</p>
+                                    <h4>$ {{ object.price }}</h4>
+                                </div>
+                            </a>
+                        </div>
+                        {% endif %}
+                    {% endfor %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="success" id="portfolio">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-xs-center section-header">
+                    <h2 class="section-heading">Purchased / Reserved Gifts</h2>
+                    {% include star.html type="light" %}
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12 text-xs-center">
+                    <div class="card-columns">
+                    {% for object in items reversed %}
+                        {% if object.taken %}
+                        <div class="card">
+                            <a href="{{ object.link }}" target="_blank">
+                                <div class="card-block">
+                                    <h4 class="card-title">{{ object.name }}</h4>
+                                </div>
+                                {% if object.img %}<img src="{{ object.img }}" alt="Card image"/>{% endif %}
+                                <div class="card-block">
+                                    {% if object.purchaser %}<p class="card-text">Donato da: <i>{{ object.purchaser }}</i></p>{% endif %}
+                                    {% if object.message %}<p class="card-text">Messaggio: <i>{{ object.message }}</i></p>{% endif %}
+                                </div>
+                            </a>
+                        </div>
+                        {% endif %}
+                    {% endfor %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>

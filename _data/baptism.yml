@@ -1,0 +1,188 @@
+# - name: Pennarello Molto bello
+#   description: Questo oggetto è fantastico
+#   price: 1000
+#   link: www.ciao.com
+#   img: https://images-na.ssl-images-amazon.com/images/I/61yBZ6d9zQL._SX522_.jpg
+#   taken: yes
+#   purchaser: Gianni Pinozzo
+#   message: Mi piaccciono le penne molto belle e mi fanno schifo gli orecchini marci
+
+- name: Ciuccio
+  description:
+  price: 5.99
+  link: https://www.amazon.com/Philips-AVENT-Nighttime-Pacifier-2-Count/dp/B0057EEC44/ref=sr_1_10_s_it?s=baby-products&ie=UTF8&qid=1468199290&sr=1-10&keywords=pacifier
+  img: https://images-na.ssl-images-amazon.com/images/I/61yBZ6d9zQL._SX522_.jpg
+
+- name: Ciuccio
+  description: Gia' acquistati per necessita', attendono un donatore! :) Questo ciuccio ci e' stato consigliato da un'amica ostetrica. La sua particolarita' e' di avere un buco in corrispondenza della tettarella cosi' da non farlo rigettare dal bambino.
+  price: 2.78
+  img: https://images-na.ssl-images-amazon.com/images/I/41hOfD2fTmL.jpg
+  link: https://www.amazon.com/Philips-AventBPA-Soothie-Pacifier-months/dp/B0081ZOV06/ref=sr_1_2_s_it?s=baby-products&ie=UTF8&qid=1468199019&sr=1-2&keywords=pacifier
+
+- name: Catenella per ciuccio
+  description: Per chi conosce bene la Giorgia potra' pensare che le tonalita' siano state scelte da lei...ma e' un maschietto!
+  price: 9.95
+  img: https://images-na.ssl-images-amazon.com/images/I/71ayfr-5adL._SX522_.jpg
+  link: https://www.amazon.com/Pacifier-Clip-2-Sided-Design-Holder/dp/B00YYDW86I/ref=sr_1_8_s_it?s=baby-products&ie=UTF8&qid=1468370155&sr=1-8&keywords=Booginhead+PaciGrip+Pacifier+Holder
+
+- name: Munchkin LATCH Deluxe Bottle and Valve Brush
+  description: Pulisci biberon
+  price: 4.28
+  img: https://images-na.ssl-images-amazon.com/images/I/71etYS550VL._SX522_.jpg
+  link: https://www.amazon.com/Munchkin-LATCH-Deluxe-Bottle-Valve/dp/B00JBYN0D0/ref=sr_1_1_s_it?s=baby-products&ie=UTF8&qid=1468420578&sr=1-1&keywords=Munchkin+Deluxe+Bottle+Brush
+
+- name: Gerber Unisex-Baby Newborn 3 Pack Terry Dribbler Bib
+  description: 3 bavaglini per neonato
+  price: 6.99
+  img: https://images-na.ssl-images-amazon.com/images/I/81Aqiuq5gxL._UY879_.jpg
+  link: https://www.amazon.com/dp/B00KD5AIFY/ref=twister_B00EMG3SOI?_encoding=UTF8&psc=1
+
+- name: Gerber Unisex-Baby Newborn 3 Pack Terry Dribbler Bib
+  description: 3 bavaglini per neonato
+  price: 6.99
+  img: https://images-na.ssl-images-amazon.com/images/I/81BOGPaZf2L._UX679_.jpg
+  link: https://www.amazon.com/dp/B00KD5AIFY/ref=twister_B00EMG3SOI?_encoding=UTF8&psc=1
+
+- name: Bumkins SuperBib 3 Pack -Blue Fizz/OnTheGo/Owls
+  description: Bavaglini 6-24 mesi
+  price: 15.26
+  img: https://images-na.ssl-images-amazon.com/images/I/71fGfcOo%2BzL._SX522_.jpg
+  link: https://www.amazon.com/Bumkins-SuperBib-Pack--Blue-OnTheGo/dp/B00A0BYBD6/ref=sr_1_3_s_it?s=baby-products&ie=UTF8&qid=1468420863&sr=1-3&keywords=Bumkins+SuperBib+3+Pack
+
+- name: Adorable Waterproof Silicone Soft Bib with Food Catcher
+  description: 2 bavaglini in silicone con raccoglitore e due posate
+  price: 14.10
+  img: https://images-na.ssl-images-amazon.com/images/I/91pMTRf%2BCJL._SX522_.jpg
+  link: https://www.amazon.com/Adorable-Waterproof-Silicone-Soft-Catcher/dp/B01AUVPG4S/ref=sr_1_4_s_it?s=baby-products&ie=UTF8&qid=1468421151&sr=1-4&keywords=BabyBjorn+Soft+Bib+2+Pack
+
+- name: Primo Passi Baby Suction Bowl with Utensils
+  description: Contenitore cibo con posate
+  price: 6.99
+  img: https://images-na.ssl-images-amazon.com/images/I/81Je8Oo2YpL._SX522_.jpg
+  link: https://www.amazon.com/dp/B01EKAZ4QU?psc=1
+
+- name: Magic Bullet Baby Bullet Baby Care System
+  description: Robot da cucina con cui cucinare il cibo sano e nutriente per il bambino di un'intera settimana in meno di 5 minuti. Include frullatore, ciotola, lama per miscelare, lama di fresatura, facile pop vassoio in lotti di silicone, tazze, spatola, 1 contenitore richiudibile.
+  price: 50.99
+  img: https://images-na.ssl-images-amazon.com/images/I/814ykZ%2BVs5L._SL1500_.jpg
+  link: https://www.amazon.com/Magic-Bullet-Baby-Care-System/dp/B004V5BTUA
+
+- name: Inglesina - Fast Table Chair With Dining Tray - Light Blue
+  description: seggiolone portatile
+  price: 81.00
+  img: https://images-na.ssl-images-amazon.com/images/I/61YQy4QrByL._SX522_.jpg
+  link: https://www.amazon.com/Inglesina-Table-Chair-Dining-Light/dp/B00J7YSJXK/ref=sr_1_12_s_it?s=baby-products&ie=UTF8&qid=1468453536&sr=1-12&keywords=Fast+Table+Chair+baby
+
+- name: VYSSA VACKERT
+  description: Materasso per lettino
+  price: 79.99
+  img: http://www.ikea.com/us/en/images/products/vyssa-vackert-mattress-for-crib-blue__0095513_PE234306_S4.JPG
+  link: http://www.ikea.com/us/en/catalog/products/70152877/
+
+- name: LEN
+  description: Proteggi materassino
+  price: 5.99
+  img: http://www.ikea.com/us/en/images/products/len-mattress-protector-white__0085726_PE213547_S4.JPG
+  link: http://www.ikea.com/us/en/catalog/products/40143304/
+
+- name: Carter's Keep Me Dry Waterproof Fitted Quilted Crib Pad
+  description: Coprimaterassino impermeabile
+  price: 29.99
+  img: https://images-na.ssl-images-amazon.com/images/I/81xwdkQzTBL._SX522_.jpg
+  link: https://www.amazon.com/Carters-Waterproof-Quilted-Discontinued-Manufacturer/dp/B002UD65XQ?ie=UTF8&tag=blvisitor-20
+
+- name: NANIG
+  description: Completo letto, 4 pezzi, verde
+  price: 24.99
+  img: http://www.ikea.com/us/en/images/products/nanig-piece-bed-linen-set-for-crib-green__0477375_PE616972_S4.JPG
+  link: http://www.ikea.com/us/en/catalog/products/20282428/
+
+- name: Lenzuola
+  description: Lenzuolo ad angolo copri materasso
+  price: 19.00
+  img: http://target.scene7.com/is/image/Target/18839827?wid=450&hei=450&fmt=pjpeg
+  link: http://www.target.com/p/babyletto-baby-fitted-crib-sheet/-/A-18839827
+
+- name: Copertina
+  description: Due copertine morbide
+  price: 9.99
+  img: http://target.scene7.com/is/image/Target/14772608?wid=450&hei=450&fmt=pjpeg
+  link: http://www.target.com/p/circo-pack-n-play-play-yard-fitted-sheet-set/-/A-15035976
+
+- name: LEN
+  description: Piumone per lettino
+  price: 14.99
+  img: http://www.ikea.com/us/en/images/products/len-crib-comforter-white__00007_PE056780_S4.JPG
+  link: http://www.ikea.com/us/en/catalog/products/72899110/
+
+- name: Summer Infant Contoured Changing Pad
+  description: Materassino fasciatoio
+  price: 19.03
+  img: https://images-na.ssl-images-amazon.com/images/I/81%2Bev0VHJHL._SL1500_.jpg
+  link: https://www.amazon.com/Summer-Infant-Contoured-Changing-16-5/dp/B009EDSWJA?ie=UTF8&tag=blvisitor-20
+
+- name: Make a Splash Changing Pad Cover
+  description: Copri materassino fasciatoio (a pois!)
+  price: 35.00
+  img: https://res.cloudinary.com/babylist/image/upload/t_app_500px_square/pinxohrh2vfvzbbxi2nb.jpg
+  link: http://www.landofnod.com/make-a-splash-changing-pad-cover-dot/f12397?t=6&a=185&bid=5628bid
+
+- name: SKÖTSAM
+  description: Asciugamano copri fasciatoio
+  price: 4.99
+  img: http://www.ikea.com/us/en/images/products/skotsam-cover-white__0212462_PE376058_S4.JPG
+  link: http://www.ikea.com/us/en/catalog/products/50253981/
+
+- name: Zutano Unisex Baby Fleece Hat
+  description: Cappellino a forma di orsetto.
+  price: 14.50
+  img: https://res.cloudinary.com/babylist/image/upload/t_app_500px_square/wereb1xw7ka6mindb7zq.jpg
+  link: https://www.amazon.com/Zutano-Infant-Unisex-Baby-Fleece-Pagoda/dp/B0085ITGZ4?ie=UTF8&tag=blvisitor-20
+
+- name: Magnificent Baby Baby-Boys Tally HO Footie
+  description: Tutina con i piedi per i primi tre mesi.
+  price: 29.99
+  img: https://res.cloudinary.com/babylist/image/upload/t_app_500px_square/asfmuysxyizpwij8zk6e.jpg
+  link: https://www.amazon.com/Magnificent-Baby-Baby-Boys-Tally-Footie/dp/B012NBZ47M?ie=UTF8&tag=blvisitor-20
+
+- name: Sassy Floor Mirror, Blue
+  description: Specchio giocattolo utile per aiutarlo ad incrementare la percezione.
+  price: 14.99
+  img: https://images-na.ssl-images-amazon.com/images/I/61KpMG0bzGL._SX522_.jpg
+  link: https://www.amazon.com/Sassy-80030-Floor-Mirror-Blue/dp/B002J4U8M0?ie=UTF8&tag=blvisitor-20
+
+- name: Baby Einstein Take Along Tunes Musical Toy
+  description: Giochino musicale
+  price: 6.99
+  img: https://images-na.ssl-images-amazon.com/images/I/41szCbN2t5L.jpg
+  link: https://www.amazon.com/Baby-Einstein-Along-Tunes-Musical/dp/B000YDDF6O?ie=UTF8&tag=blvisitor-20
+
+- name: Knit Mushroom Rattle
+  description: Sonagli
+  price: 12.95
+  img: https://res.cloudinary.com/babylist/image/upload/t_app_500px_square/j9zkyhtjqnhwfgc1t8qr.jpg
+  link: http://www.landofnod.com/mushroom-rattles/f11495?t=6&a=185&bid=5628bid
+
+- name: Dexbaby Diaper Caddy and Nursery Organizer for Baby's
+  description: Busta porta oggetti
+  price: 21.99
+  img: https://images-na.ssl-images-amazon.com/images/I/81CmqAExyaL._SX522_.jpg
+  link: https://www.amazon.com/Dexbaby-Diaper-Nursery-Organizer-Essentials/dp/B003ULP59M?ie=UTF8&tag=blvisitor-20
+
+- name: Pannolini
+  description: Abbonamento mensile pannolini, effettueremo un abbonamento su amazon che ci permettera' di ricevere a casa mensilmente la quantita' di pannolini desiderata. Potete dunque regalarci 1, 2, 3 ecc. mesi di abbonamento. Per questo dono, consigliamo il bonifico, il prezzo indica il costo mensile.
+  price: 34.99
+  img: https://images-na.ssl-images-amazon.com/images/I/81yPNoh5mZL._SX522_.jpg
+  link: https://www.amazon.com/dp/B00DGN23UI/ref=sxr_pa_click_within_right_2?pf_rd_t=301&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=2329824862&pf_rd_i=box+gym+for+baby&pf_rd_r=7145GTPM80H7BWME384G&pf_rd_s=desktop-rhs-carousels&psc=1
+
+- name: Child Nursery Lamp Teddy Bear Hot Air Balloon Lamp
+  description: Lampadario a forma di mongolfiera
+  price: 76.00
+  img: https://img1.etsystatic.com/049/0/6890118/il_570xN.723051625_iv6j.jpg
+  link: https://www.etsy.com/listing/221451572/child-nursery-lamp-teddy-bear-hot-air?ref=market
+
+- name: Baby Carrier Stand
+  description: Zainetto porta bimbo per camminate
+  price: 91.99
+  img: https://images-na.ssl-images-amazon.com/images/I/810KxfXz4oL._SX522_.jpg
+  link: https://www.amazon.com/Cross-Country-Carrier-Stand-Child/dp/B00LH7MVM0/ref=sr_1_4_s_it?s=baby-products&ie=UTF8&qid=1469578338&sr=1-4&keywords=back+pack+baby
