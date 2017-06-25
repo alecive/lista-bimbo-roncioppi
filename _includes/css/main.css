@@ -164,7 +164,6 @@ header {
     text-align: center;
     color: #fff;
     /*background: #{{ site.color.primary }};*/
-    background-image: url("img/future.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     -webkit-background-size: cover;
@@ -173,26 +172,34 @@ header {
     background-size: cover;
 }
 
+header.birth {
+    background-image: url("img/future.jpg");
+}
+
+header.baptism {
+    background-image: url("img/baptism.jpg");
+}
+
 @media(max-width:3840px) {
-    header {
+    header.birth {
         background-image: url("img/future_3840.jpg");
     }
 }
 
 @media(max-width:2560px) {
-    header {
+    header.birth {
         background-image: url("img/future_2560.jpg");
     }
 }
 
 @media(max-width:1920px) {
-    header {
+    header.birth {
         background-image: url("img/future_1920.jpg");
     }
 }
 
 @media(max-width:1280px) {
-    header {
+    header.birth {
         background-image: url("img/future_1280.jpg");
     }
 }
