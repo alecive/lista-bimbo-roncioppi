@@ -25,16 +25,31 @@ A seguire, super party/sagra presso la [Chiesa di Nostra Signora delle Grazie, S
 
 Inizialmente non avevamo intenzione di creare una pagina apposita, ma visto le numerose richieste riguardo ipotetici regali per nostro figlio, abbiamo deciso che l'opzione migliore fosse darvi qualche suggerimento, dato che nei prossimi mesi Leo starà in Italia con la mamma (per la tristezza del papà).
 
-Un paio di informazioni pratiche: la modalità è la stessa con la quale avevamo organizzato la lista bimbo per la nascita del pargolo. Questa volta fortunatamente saremo in presenza quindi c'è anche la possibilità di portare il regalo di persona!! Altrimenti, si potrà scegliere tra regalo con bonifico o regalo on-line da spedire a casa. In ogni caso, rimane importante **comunicarci il regalo che pianificate di fare a Leo così lo possiamo togliere dalla lista dei regali disponibili**.
+Purtroppo, le nostre busy vite americane ci stanno impedendo di trovare del tempo per scegliere gli oggetti specifici, ma a grandi linee necessitiamo di:
+
+ * armadio per cameretta
+ * fasciatoio/scrivania
+ * seggiolone per pappa
+ * seggiolone portatile per pappa
+ * seggiolone per la macchina
+ * giochi vari per casa
+ * giochi vari per giardino
+ * mangia pannolini
+ * vestiti da 18 mesi in su
+ * varie ed eventuali (bavaglini di plastica, coppette e cucchiaini, etc)
+ * vaschetta bagno (quadrata)
+
+
+Un paio di informazioni pratiche: la cosa più importante è il **comunicarci il regalo che pianificate di fare a Leo così lo possiamo togliere dalla lista dei regali disponibili**. Per quanto riguarda i regali più piccoli, sentitevi liberi di fare come volete; nel caso dei regali più "impegnativi", se siete in dubbio vi possiamo dare dei consigli. La modalità è la stessa con la quale avevamo organizzato la lista bimbo per la nascita del pargolo. Questa volta fortunatamente saremo in presenza quindi c'è anche la possibilità di portare il regalo di persona!! Altrimenti, si potrà scegliere tra regalo con bonifico o regalo on-line da spedire a casa.
 
 <div class="row">
 <div class="col-md-6">
 <h3>Regalo con bonifico</h3>
-<p> Se non siete esperti di acquisti on line è possibile versare la cifra del dono con bonifico al CC della madre di famiglia: <b>IBAN IT12S0307501603CC8002364207 intestato a Giorgia Mancioppi</b>. </p>
+<p> Se preferiste, è possibile versare la cifra del dono con bonifico al CC della madre di famiglia: <b>IBAN IT12S0307501603CC8002364207 intestato a Giorgia Mancioppi</b>. </p>
 </div>
 <div class="col-md-6">
 <h3>Regalo on-line</h3>
-<p> Tutti gli articoli che abbiamo scelto sono acquistabili online (beata modernità), ed hanno un link che vi porta alla pagina d'acquisto. L'indirizzo a cui andranno spediti è: <b>Giorgia Mancioppi Via della Pineta 9/4 16035 Rapallo</b>.</p>
+<p> Per quanto riguarda dei regali acquistabili online, c'è la possibilità di spedirli direttamente a casa nostra. L'indirizzo a cui andranno spediti è: <b>Giorgia Mancioppi Via della Pineta 9/4 16035 Rapallo</b>.</p>
 </div>
 </div>
 
