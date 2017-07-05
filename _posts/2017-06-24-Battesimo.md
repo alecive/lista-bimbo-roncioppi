@@ -11,7 +11,7 @@ Siamo lieti di invitarvi al battesimo, ma soprattutto di poter festeggiare con v
 
 # Battesimo
 
-Il battesimo si terrà alle ore 16 presso la [Chiesa di Santa Maria del Campo, Via Castiglione 1, 16035, Rapallo](https://www.google.com/maps/place/Santa+Maria+Del+Campo/@44.3582979,9.1913479,17z/data=!3m1!4b1!4m5!3m4!1s0x12d4a077625a68bd:0xd4000e8d65bacbc4!8m2!3d44.3582979!4d9.1935366).
+Il battesimo si terrà Sabato **29 Luglio** alle ore 16 presso la [Chiesa di Santa Maria del Campo, Via Castiglione 1, 16035, Rapallo](https://www.google.com/maps/place/Santa+Maria+Del+Campo/@44.3582979,9.1913479,17z/data=!3m1!4b1!4m5!3m4!1s0x12d4a077625a68bd:0xd4000e8d65bacbc4!8m2!3d44.3582979!4d9.1935366).
 
 Ecco la mappa:
 
