@@ -6,6 +6,8 @@ description: ""
 permalink: battesimo.html
 ---
 
+Save the date: **Sabato 29 Luglio** ci sarà il battesimo di Leonardo!
+
 Finalmente è arrivato il grande giorno in cui Leonardo verrà battezzato per la gioia di parenti e amici.
 Siamo lieti di invitarvi al battesimo, ma soprattutto di poter festeggiare con voi questo importante evento nella vita di Leonardo. Tutto questo coinciderà con il nostro rientro, e quindi non vediamo l'ora di riabbracciarvi!!! Qui sotto tutte le informazioni necessarie relative al quando e dove si terranno i rispettivi eventi.
 
